@@ -112,7 +112,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 Bibliography of peer reviewed literature for further reading.
 
-### Other Useful Awesome Lists
+## Other Useful Awesome Lists
 
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - [List item](http://example.com)
