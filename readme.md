@@ -26,6 +26,7 @@
 - [Research Projects](#Research-Projects)
   - [Europe](#Europe)
     - [United Kingdom](#United-Kingdom)
+- [Further Reading](#Further-Reading)
 - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Contribute](#Contribute)
 
@@ -106,6 +107,10 @@ About this section. Optional. Keep this short and focus on the list.
 ## Research Projects
 ### Europe
 #### United Kingdom
+
+## Further Reading
+
+Bibliography of peer reviewed literature for further reading.
 
 ### Other Useful Awesome Lists
 
