@@ -33,6 +33,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
 
 ### Guides by Topic
+- [Guide to Figuring out the Age of an Undated World Map (xkcd)](https://xkcd.com/1688/)
 - [Researching boundaries of parishes and counties (National Library of Scotland)](https://maps.nls.uk/geo/boundaries/history.html)
 - [Researching climate change (National Library of Scotland)](https://maps.nls.uk/guides/climate/)
 - [Researching house and building history (National Library of Scotland)](https://maps.nls.uk/guides/houses/)
