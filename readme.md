@@ -76,7 +76,9 @@ About this section. Optional. Keep this short and focus on the list.
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
-## Online-Interactive-Maps
+## Online Interactive Maps
+
+About this section. Optional. Keep this short and focus on the list.
 
 ## Other Data
 
