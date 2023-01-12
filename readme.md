@@ -12,6 +12,7 @@
   - [Search Engines](#Search-Engines)
   - [Databases](#Databases)
   - [Collections](#Collections)
+  - [Dealers](#Dealers)
 - [Other Data](#Other-Data)
   -  [Shapefiles](#Shapefiles)
 - [Tools](#Tools)
@@ -52,6 +53,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Search Engines
 - [Old Maps Online](https://www.oldmapsonline.org/) - DESCRIPTION.
+- [National Library of Scotland's Map Finder](https://maps.nls.uk/geo/find/#zoom=7.0&lat=57.00000&lon=-4.40000&layers=102&b=1&z=0&point=0,0)
 
 ### Databases
 - [Open Historical Map](https://www.openhistoricalmap.org/)
@@ -60,6 +62,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps)
 - [National Library of Scotland Map Collection](https://maps.nls.uk/) - DESCRIPTION.
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - DESCRIPTION.
+
+### Dealers
+- [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
 ## Other Data
 
