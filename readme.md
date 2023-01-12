@@ -15,6 +15,8 @@
 - [Other Data](#Other-Data)
   -  [Shapefiles](#Shapefiles)
 - [Tools](#Tools)
+  - [QGIS Extensions](#QGIS-Extensions)
+  - [APIs](#APIs)
   - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 
 ### Tags
@@ -75,6 +77,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### QGIS Extensions
 - [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. [More about this tool here.](https://www.researchgate.net/publication/220144108_Visualizing_the_Planimetric_Accuracy_Of_Historical_Maps_With_MapAnalyst)
+
+### APIs
+- [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
 
 ### Other Useful Awesome Lists
 
