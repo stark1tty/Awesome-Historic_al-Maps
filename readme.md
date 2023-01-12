@@ -5,14 +5,14 @@
 
 ## Contents
 
-- [Databases & Search Engines](#Databases & Search Engines)
-  - [Databases & Search Engines](#Databases & Search Engines|Search Engines)
-  - [Databases & Search Engines](#Databases & Search Engines|Databases)
-  - [Databases & Search Engines](#Databases & Search Engines|Collections)
+- [Databases and Search Engines](#Databases-and-Search-Engines)
+  - [Search Engines](#Search-Engines)
+  - [Databases](#Databases)
+  - [Collections](#Collections)
 - [Tools](#Tools)
-  - [Other Useful Awesome Lists](#Tools|Other Useful Awesome Lists)
+  - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 
-## Databases & Search Engines
+## Databases and Search Engines
 
 About this section. Optional. Keep this short and focus on the list.
 
