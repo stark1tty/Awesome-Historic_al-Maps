@@ -24,7 +24,7 @@
   - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Research Projects](#Research-Projects)
   - [Europe](#Europe)
-    - [United Kingdom](#United Kingdom)
+    - [United Kingdom](#United-Kingdom)
 - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Contribute](#Contribute)
 
