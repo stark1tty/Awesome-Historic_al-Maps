@@ -6,6 +6,7 @@
 
 - [Research Guides](#Research-Guides)
   - [General Research Guides](#General-Research-Guides)
+  - [Guides by Topic](#Guides-by-Topic)
   - [Historical Maps in GIS](#Historical-Maps-in-GIS)
 - [Databases and Search Engines](#Databases-and-Search-Engines)
   - [Search Engines](#Search-Engines)
@@ -25,10 +26,11 @@ About this section. Optional. Keep this short and focus on the list.
 ### General Research Guides
 - [A Guide to Reading Historic Maps (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/)
 - [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
+
+### Guides by Topic
 - [Researching boundaries of parishes and counties (National Library of Scotland)](https://maps.nls.uk/geo/boundaries/history.html)
 - [Researching climate change (National Library of Scotland)](https://maps.nls.uk/guides/climate/)
 - [Researching house and building history (National Library of Scotland)](https://maps.nls.uk/guides/houses/)
-- [Using LiDAR layers for landscape research (National Library of Scotland)](https://maps.nls.uk/guides/lidar/)
 - [Researching local history (National Library of Scotland)](https://maps.nls.uk/guides/local-history/)
 - [Researching woodland history (National Library of Scotland)](https://maps.nls.uk/guides/woodland/)
 
@@ -38,6 +40,7 @@ About this section. Optional. Keep this short and focus on the list.
   -  [Georeferencing in ArcGIS](https://storymaps.arcgis.com/stories/dd75d0398f7d4ded924d303161895b8b)
   -  [Video: Georeferencing Tutorial for a Graduate Digital Humanities Course by Ryan Cordell](https://www.youtube.com/watch?v=jy9igyZbLjs&ab_channel=RyanCordell) - Using ArcGIS (YouTube)
   -  [Georeferencing in QGIS](https://www.youtube.com/watch?v=g-4jFTR2EC0) (YouTube)
+- [Using LiDAR layers for landscape research (National Library of Scotland)](https://maps.nls.uk/guides/lidar/)
 - [Re-using georeferenced maps - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/georeferencing/)
 - [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
 
