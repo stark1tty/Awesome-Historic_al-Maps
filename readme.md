@@ -15,12 +15,18 @@
   - [Databases](#Databases)
   - [Collections](#Collections)
   - [Dealers](#Dealers)
+- [Online Interactive Maps](#Online-Interactive-Maps)
 - [Other Data](#Other-Data)
   -  [Shapefiles](#Shapefiles)
 - [Tools](#Tools)
   - [QGIS Extensions](#QGIS-Extensions)
   - [APIs](#APIs)
   - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
+- [Research Projects](#Research-Projects)
+  - [Europe](#Europe)
+    - [United Kingdom](#United Kingdom)
+- [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
+- [Contribute](#Contribute)
 
 ### Tags
 
@@ -69,6 +75,8 @@ About this section. Optional. Keep this short and focus on the list.
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
+## Online-Interactive-Maps
+
 ## Other Data
 
 About this section. Optional. Keep this short and focus on the list.
@@ -89,10 +97,16 @@ About this section. Optional. Keep this short and focus on the list.
 ### APIs
 - [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
 
+## Research Projects
+### Europe
+#### United Kingdom
+
 ### Other Useful Awesome Lists
 
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - [List item](http://example.com)
+
+---
 
 ## Contribute
 
