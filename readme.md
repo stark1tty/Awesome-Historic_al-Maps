@@ -2,15 +2,18 @@
 
 > Tools, repositories, databases, search engines, and online resources for the exploration of Historic Maps
 
-
 ## Contents
 
 - [Databases and Search Engines](#Databases-and-Search-Engines)
   - [Search Engines](#Search-Engines)
   - [Databases](#Databases)
   - [Collections](#Collections)
+- [Other Data](#Other-Data)
+  -  [Shapefiles](#Shapefiles)
 - [Tools](#Tools)
   - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
+
+### Tags
 
 ## Databases and Search Engines
 
@@ -24,6 +27,10 @@ About this section. Optional. Keep this short and focus on the list.
 ### Collections
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - DESCRIPTION.
 - [List item](http://example.com) - DESCRIPTION.
+
+## Other Data
+
+### Shapefiles
 
 ## Tools
 
