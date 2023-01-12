@@ -6,6 +6,7 @@
 
 ## Contents
 
+- [Tags](#Tags)
 - [Research Guides](#Research-Guides)
   - [General Research Guides](#General-Research-Guides)
   - [Guides by Topic](#Guides-by-Topic)
