@@ -23,6 +23,8 @@
 About this section. Optional. Keep this short and focus on the list.
 
 ### General Research Guides
+- [A Guide to Reading Historic Maps (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/)
+- [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
 - [Researching boundaries of parishes and counties (National Library of Scotland)](https://maps.nls.uk/geo/boundaries/history.html)
 - [Researching climate change (National Library of Scotland)](https://maps.nls.uk/guides/climate/)
 - [Researching house and building history (National Library of Scotland)](https://maps.nls.uk/guides/houses/)
