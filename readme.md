@@ -71,10 +71,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Applications
 - [MapAnalyst](https://mapanalyst.org/) - MapAnalyst is a software application for the accuracy analysis of old maps. Its main purpose is to compute distortion grids and other types of visualizations that illustrate the geometrical accuracy and distortion of old maps.
+- [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 
 ### QGIS Extensions
 - [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. [More about this tool here.](https://www.researchgate.net/publication/220144108_Visualizing_the_Planimetric_Accuracy_Of_Historical_Maps_With_MapAnalyst)
-- [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 
 ### Other Useful Awesome Lists
 
