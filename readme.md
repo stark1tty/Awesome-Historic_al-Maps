@@ -32,6 +32,7 @@
 ### Tags
 
 ---
+---
 
 ## Research Guides
 
@@ -59,6 +60,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [Re-using georeferenced maps - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/georeferencing/)
 - [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
 
+---
+
 ## Databases and Search Engines
 
 About this section. Optional. Keep this short and focus on the list.
@@ -81,15 +84,21 @@ About this section. Optional. Keep this short and focus on the list.
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
+---
+
 ## Online Interactive Maps
 
 About this section. Optional. Keep this short and focus on the list.
+
+---
 
 ## Other Data
 
 About this section. Optional. Keep this short and focus on the list.
 
 ### Shapefiles
+
+---
 
 ## Tools
 
@@ -105,19 +114,26 @@ About this section. Optional. Keep this short and focus on the list.
 ### APIs
 - [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
 
+---
+
 ## Research Projects
 ### Europe
 #### United Kingdom
 
+---
+
 ## Further Reading
 
 Bibliography of peer reviewed literature for further reading.
+
+---
 
 ## Other Useful Awesome Lists
 
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - [List item](http://example.com)
 
+---
 ---
 
 ## Contribute
