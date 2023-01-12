@@ -5,25 +5,32 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Databases & Search Engines](#Databases & Search Engines)
+  - [Databases & Search Engines](#Databases & Search Engines|Search Engines)
+  - [Databases & Search Engines](#Databases & Search Engines|Databases)
+  - [Databases & Search Engines](#Databases & Search Engines|Collections)
+- [Tools](#Tools)
+  - [Other Useful Awesome Lists](#Tools|Other Useful Awesome Lists)
 
-
-## Section
+## Databases & Search Engines
 
 About this section. Optional. Keep this short and focus on the list.
 
+### Search Engines
+- [Old Maps Online](https://www.oldmapsonline.org/) - DESCRIPTION.
+
+### Databases
+
+### Collections
+- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - DESCRIPTION.
+- [List item](http://example.com) - DESCRIPTION.
+
+## Tools
+
+### Other Useful Awesome Lists
+
+- [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
 
 ## Contribute
 
