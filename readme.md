@@ -73,6 +73,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Databases
 - [Open Historical Map](https://www.openhistoricalmap.org/)
+- [World Historical Gazetteer](https://whgazetteer.org/) - World Historical Gazetteer (WHG) is providing a collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
+- [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
 ### Collections
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps)
@@ -81,6 +83,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Archive.org - Images: Maps](https://archive.org/details/image?&and[]=subject%3A%22Map%22) - The Internet Archives has an extensive collection of maps. Make sure to search here.
 - [The National Archives Map Collection (UK)](https://www.nationalarchives.gov.uk/maps/)
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - DESCRIPTION.
+- [David Rumsey Map Collection](https://www.davidrumsey.com/) - The David Rumsey Map Collection was started over 35 years ago and contains more than 150,000 maps. The collection focuses on rare 16th through 21st century maps of North and South America, as well as maps of the World, Asia, Africa, Europe, and Oceania. The collection includes atlases, globes, wall maps, school geographies, pocket maps, books of exploration, maritime charts, and a variety of cartographic materials including pocket, wall, children's, and manuscript maps. Items range in date from around 1550 to the present.
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
@@ -98,6 +101,7 @@ About this section. Optional. Keep this short and focus on the list.
 About this section. Optional. Keep this short and focus on the list.
 
 ### Shapefiles
+
 
 ---
 
