@@ -23,6 +23,7 @@
   - [APIs](#APIs)
   - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Research Projects](#Research-Projects)
+  - [Global](#Global)
   - [Europe](#Europe)
     - [United Kingdom](#United-Kingdom)
 - [Further Reading](#Further-Reading)
@@ -106,7 +107,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Applications
 - [MapAnalyst](https://mapanalyst.org/) - MapAnalyst is a software application for the accuracy analysis of old maps. Its main purpose is to compute distortion grids and other types of visualizations that illustrate the geometrical accuracy and distortion of old maps. [More about this tool here.](https://www.researchgate.net/publication/220144108_Visualizing_the_Planimetric_Accuracy_Of_Historical_Maps_With_MapAnalyst)
+- [Map Warper](https://github.com/timwaters/mapwarper) - Mapwarper is an open source map geo-rectification, warping and georeferencing application. It enables a user to upload an image, a scanned map or aerial photo for example, and by placing control points on a reference map and the image, to warp it, to stretch it to fit.
 - [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
+- [HiRoNEx: Historical Road Network Extractor](https://github.com/johannesuhl/hironex) - A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 
 ### QGIS Extensions
 - [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. 
@@ -117,6 +120,9 @@ About this section. Optional. Keep this short and focus on the list.
 ---
 
 ## Research Projects
+### Global
+- [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
+
 ### Europe
 #### United Kingdom
 
