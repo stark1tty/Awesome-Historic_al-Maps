@@ -16,8 +16,6 @@
   - [Collections](#Collections)
   - [Dealers](#Dealers)
 - [Online Interactive Maps](#Online-Interactive-Maps)
-- [Other Data](#Other-Data)
-  -  [Shapefiles](#Shapefiles)
 - [Tools](#Tools)
   - [QGIS Extensions](#QGIS-Extensions)
   - [APIs](#APIs)
@@ -108,16 +106,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 ---
 
-## Other Data
-
-About this section. Optional. Keep this short and focus on the list.
-
-### Shapefiles
-- [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
-- [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
-
----
-
 ## Tools
 
 About this section. Optional. Keep this short and focus on the list.
@@ -136,11 +124,16 @@ About this section. Optional. Keep this short and focus on the list.
 
 ---
 
-## Research Projects and Location Specific Collections
+## Research Projects & Location Specific Collections
+
 ### Global
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
+- [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
 
 ### Europe
+
+#### Sweden
+- [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
 
 #### United Kingdom
 - [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
