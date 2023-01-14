@@ -28,6 +28,7 @@
 - [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
   - [Global](#Global)
   - [Europe](#Europe)
+    - [The Netherlands](#The-Netherlands)
     - [Norway](#Norway)
     - [Sweden](#Sweden)
     - [United Kingdom](#United-Kingdom)
@@ -153,6 +154,11 @@ About this section. Optional. Keep this short and focus on the list.
 - [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
 
 ### Europe
+#### The Netherlands
+- [Palaeogeographic maps of the Netherlands (Rijksdienst voor het Cultureel Erfgoed|Ministerie van Onderwijs, Cultuur en Wetenschap)](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf)
+
+#### Norway
+- [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
 #### Sweden
 - [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
@@ -167,9 +173,6 @@ About this section. Optional. Keep this short and focus on the list.
 ##### Scotland
 - [Charting the Nation](http://www.chartingthenation.lib.ed.ac.uk/) - The Charting the Nation image collection includes a wide variety of single maps and maps in atlases and other bound books, together with important manuscript and printed texts relating to the geography and mapping of Scotland from 1550 to 1740 and beyond.
 - [Roy Military Survey of Scotland, 1747-55 (National Library of Scotland)](https://maps.nls.uk/geo/roy/#zoom=7&lat=56.8860&lon=-4.0709&layers=0) - The Roy Military Survey of Scotland, known to its contemporaries as the 'Great Map', is a uniquely important historical cartographic document. It provides a uniform graphic snapshot of the entire Scottish mainland at a time when the landscape was beginning an era of rapid change. For many Highland areas, it is the most detailed and informative map that survives for the entire 18th century, and for all areas, the only standard topographic map prior to the Ordnance Survey mapping in the 19th century.
-
-#### Norway
-- [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
 ### North America
 
