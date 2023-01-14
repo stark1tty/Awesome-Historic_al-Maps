@@ -128,8 +128,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
 
 ### Further Reading
-
-Bibliography of peer reviewed literature for further reading.
+- [Map History/History of Cartography](http://www.maphistory.info/index.html) - A general information site with information about old maps, both on the web and in the real world.
 
 ---
 
@@ -146,12 +145,14 @@ Bibliography of peer reviewed literature for further reading.
 
 #### United Kingdom
 - [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
+- [Ordnance Survey National Grid maps, 1944-1971 (National Library of Scotland)](https://maps.nls.uk/geo/records/#zoom=5&lat=56.0000&lon=-4.0000&layers=0&b=0&point=0,0) - The most detailed Ordnance Survey maps after the Second World War, including all scales of mapping - 1:1,250, 1:2,500 and 1:10,560 for Scotland and London, and just 1:10,560 scale mapping for all other parts of England and Wales. NLoS have just put online out-of-copyright maps, published over 50 years ago.
 
 ##### England
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
 
 ##### Scotland
 - [Charting the Nation](http://www.chartingthenation.lib.ed.ac.uk/) - The Charting the Nation image collection includes a wide variety of single maps and maps in atlases and other bound books, together with important manuscript and printed texts relating to the geography and mapping of Scotland from 1550 to 1740 and beyond.
+- [Roy Military Survey of Scotland, 1747-55 (National Library of Scotland)](https://maps.nls.uk/geo/roy/#zoom=7&lat=56.8860&lon=-4.0709&layers=0) - The Roy Military Survey of Scotland, known to its contemporaries as the 'Great Map', is a uniquely important historical cartographic document. It provides a uniform graphic snapshot of the entire Scottish mainland at a time when the landscape was beginning an era of rapid change. For many Highland areas, it is the most detailed and informative map that survives for the entire 18th century, and for all areas, the only standard topographic map prior to the Ordnance Survey mapping in the 19th century.
 
 #### Norway
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
