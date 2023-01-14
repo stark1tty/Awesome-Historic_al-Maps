@@ -19,6 +19,7 @@
   - [General Research Guides](#General-Research-Guides)
   - [Guides by Topic](#Guides-by-Topic)
   - [Historical Maps in GIS](#Historical-Maps-in-GIS)
+  - [Further Reading](#Further-Reading)
 - [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
   - [Global](#Global)
   - [Europe](#Europe)
@@ -30,7 +31,6 @@
   - [North America](#North-America)
     - [United States](#United-States)
       - [New York](#New-York)
-- [Further Reading](#Further-Reading)
 - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Contribute](#Contribute)
 
@@ -127,6 +127,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [Re-using georeferenced maps - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/georeferencing/)
 - [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
 
+### Further Reading
+
+Bibliography of peer reviewed literature for further reading.
+
 ---
 
 ## Research Projects & Location Specific Collections
@@ -158,12 +162,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 ##### New York
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
-
----
-
-## Further Reading
-
-Bibliography of peer reviewed literature for further reading.
 
 ---
 
