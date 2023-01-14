@@ -164,6 +164,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
 
 #### United Kingdom
+- [Aerial Archaeology Mapping Explorer (Historic England)](https://historicengland.maps.arcgis.com/apps/webappviewer/index.html?id=d45dabecef5541f18255e12e5cd5f85a) - The ‘Aerial Archaeology Mapping Explorer’ map gives people access to a compilation of archaeological mapping data collected by Historic England, and its predecessor organisations, over a period of over 30 years. The archaeological mapping has been collected from a variety of modern and historic aerial photographic sources. 
 - [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
 - [Ordnance Survey National Grid maps, 1944-1971 (National Library of Scotland)](https://maps.nls.uk/geo/records/#zoom=5&lat=56.0000&lon=-4.0000&layers=0&b=0&point=0,0) - The most detailed Ordnance Survey maps after the Second World War, including all scales of mapping - 1:1,250, 1:2,500 and 1:10,560 for Scotland and London, and just 1:10,560 scale mapping for all other parts of England and Wales. NLoS have just put online out-of-copyright maps, published over 50 years ago.
 
@@ -194,7 +195,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources.
-- [awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
+- [awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ...)
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
