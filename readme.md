@@ -134,6 +134,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Europe
 #### United Kingdom
+- [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
 #### Norway
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
