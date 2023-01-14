@@ -26,7 +26,10 @@
   - [Global](#Global)
   - [Europe](#Europe)
     - [United Kingdom](#United-Kingdom)
+      - [Scotland](#Scotland)
     - [Norway](#Norway)
+  - [North America](#North-America)
+    - [United States](#United-States)
 - [Further Reading](#Further-Reading)
 - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Contribute](#Contribute)
@@ -76,8 +79,6 @@ About this section. Optional. Keep this short and focus on the list.
 - [Open Historical Map](https://www.openhistoricalmap.org/)
 - [World Historical Gazetteer](https://whgazetteer.org/) - World Historical Gazetteer (WHG) is providing a collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 - [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
-- [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
-- [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
 
 ### Collections
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes@
@@ -142,6 +143,7 @@ About this section. Optional. Keep this short and focus on the list.
 ### Europe
 
 #### United Kingdom
+- [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
 
 ##### Scotland
@@ -149,6 +151,11 @@ About this section. Optional. Keep this short and focus on the list.
 
 #### Norway
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
+
+### North America
+
+## United States
+- [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
 
 ---
 
