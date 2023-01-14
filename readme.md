@@ -19,7 +19,6 @@
 - [Tools](#Tools)
   - [QGIS Extensions](#QGIS-Extensions)
   - [APIs](#APIs)
-  - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Research Guides](#Research-Guides)
   - [General Research Guides](#General-Research-Guides)
   - [Guides by Topic](#Guides-by-Topic)
