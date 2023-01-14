@@ -23,6 +23,7 @@
 - [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
   - [Global](#Global)
   - [Europe](#Europe)
+    - [Sweden](#Sweden)
     - [United Kingdom](#United-Kingdom)
       - [Scotland](#Scotland)
     - [Norway](#Norway)
