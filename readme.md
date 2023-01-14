@@ -22,7 +22,7 @@
   - [QGIS Extensions](#QGIS-Extensions)
   - [APIs](#APIs)
   - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
-- [Research Projects](#Research-Projects)
+- [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
   - [Global](#Global)
   - [Europe](#Europe)
     - [United Kingdom](#United-Kingdom)
@@ -80,7 +80,14 @@ About this section. Optional. Keep this short and focus on the list.
 - [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
 
 ### Collections
-- [British Library Maps Collection](https://www.bl.uk/subjects/maps)
+- [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes@
+  - [King George III Topographical and Maritime collections](https://www.bl.uk/collection-guides/king-george-iii): 30–40,000 maps, plans and views, both printed and hand-drawn, of all parts of the world
+  - [Globes](https://www.bl.uk/collection-guides/globes): Terrestrial and celestial globes dating back to 1600 and gores dating to 1544
+  - [Digital mapping](https://www.bl.uk/collection-guides/digital-mapping): Geospatial data, cartographic applications, digital aerial photography and scanned-in historic map materials
+  - [Manuscript maps](https://www.bl.uk/collection-guides/manuscript-maps): Cartography from the Middle Ages to the present
+  - [Ordnance survey mapping](https://www.bl.uk/collection-guides/ordnance-survey-mapping): The most comprehensive, publicly accessible collection of Ordnance Survey maps in the world
+  - [War Office Archive maps](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa
+  - [Visual arts](https://www.bl.uk/subjects/visual-arts): Visual arts collections include paintings, drawings, prints and photographs.
 - [National Library of Scotland Map Collection](https://maps.nls.uk/) - DESCRIPTION.
 - [Wikimedia Commons: Category - Maps](https://commons.wikimedia.org/wiki/Category:Maps) - Wikimedia has an extensive collection of maps. Make sure to search here.
 - [Archive.org - Images: Maps](https://archive.org/details/image?&and[]=subject%3A%22Map%22) - The Internet Archives has an extensive collection of maps. Make sure to search here.
@@ -128,13 +135,18 @@ About this section. Optional. Keep this short and focus on the list.
 
 ---
 
-## Research Projects
+## Research Projects and Location Specific Collections
 ### Global
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
 
 ### Europe
+
 #### United Kingdom
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
+
+##### Scotland
+- [Charting the Nation](http://www.chartingthenation.lib.ed.ac.uk/) - The Charting the Nation image collection includes a wide variety of single maps and maps in atlases and other bound books, together with important manuscript and printed texts relating to the geography and mapping of Scotland from 1550 to 1740 and beyond.
+
 #### Norway
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
