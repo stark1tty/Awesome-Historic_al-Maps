@@ -26,6 +26,7 @@
   - [Global](#Global)
   - [Europe](#Europe)
     - [United Kingdom](#United-Kingdom)
+    - [Norway](#Norway)
 - [Further Reading](#Further-Reading)
 - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Contribute](#Contribute)
@@ -103,7 +104,8 @@ About this section. Optional. Keep this short and focus on the list.
 About this section. Optional. Keep this short and focus on the list.
 
 ### Shapefiles
-
+- [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
+- [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
 
 ---
 
@@ -131,6 +133,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Europe
 #### United Kingdom
+#### Norway
+- [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
 ---
 
