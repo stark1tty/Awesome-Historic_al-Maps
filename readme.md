@@ -128,7 +128,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
 
 ### Further Reading
-- [Map History/History of Cartography](http://www.maphistory.info/index.html) - A general information site with information about old maps, both on the web and in the real world.
+- [Map History/History of Cartography](http://www.maphistory.info/index.html) - A long running, general information site with information about old maps, both on the web and in the real world.
 
 ---
 
