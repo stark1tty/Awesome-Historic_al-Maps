@@ -176,9 +176,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [International Map Collector's Society](https://www.imcos.org/) - IMCoS is a Society of people of all ages who love antique and vintage maps. We are a group of collectors, dealers, librarians, academics and just plain enthusiasts who share their common interest through meeting each other and exchanging information through a quarterly Journal. We live in many different countries and the society has organised events in all five continents through its network of international representatives. The Society supports the study of cartographic history by contributing to lecture programmes and research projects. IMCoS has its share of experts but the great majority of us belong because we like maps, want to learn more about them and enjoy talking to enthusiasts with a similar interest.
 
 ### Useful Awesome Lists
-- [Awesome GIS](https://github.com/sshuair/awesome-gis)
-- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list / Wiki for ArcGIS users and developers.
-- [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
+- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome list related to all things Geographic Information Systems (GIS).
+- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list/Wiki for ArcGIS users and developers.
+- [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - Curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources.
@@ -186,7 +186,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
-- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - awesome implementations of the Mapbox Vector Tile specification.
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Awesome implementations of the Mapbox Vector Tile specification.
 
 ---
 ---
