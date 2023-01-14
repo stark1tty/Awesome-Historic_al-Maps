@@ -1,6 +1,7 @@
 🚧🚧January 11, 2023 - New: **Under Construction**🚧🚧 - Apologies for the mess, new WIP list. 🏗️ 
 
-# Awesome Historic(al) Maps 🗺️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Historic(al) Maps 
+🗺️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Tools, repositories, databases, search engines, and online resources for the exploration of Historic Maps
 
@@ -38,6 +39,7 @@
 
 ---
 ---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ## Databases and Search Engines
 
@@ -77,11 +79,11 @@ About this section. Optional. Keep this short and focus on the list.
 #### Maritime
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
 
-
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
 ---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ## Tools
 
@@ -106,6 +108,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
 
 ---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
 ## Research Guides
 
 About this section. Optional. Keep this short and focus on the list.
@@ -137,6 +141,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Map History/History of Cartography](http://www.maphistory.info/index.html) - A long running, general information site with information about old maps, both on the web and in the real world.
 
 ---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ## Research Projects & Location Specific Collections
 
@@ -171,6 +176,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
 
 ---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ## Other 
 - [International Map Collector's Society](https://www.imcos.org/) - IMCoS is a Society of people of all ages who love antique and vintage maps. We are a group of collectors, dealers, librarians, academics and just plain enthusiasts who share their common interest through meeting each other and exchanging information through a quarterly Journal. We live in many different countries and the society has organised events in all five continents through its network of international representatives. The Society supports the study of cartographic history by contributing to lecture programmes and research projects. IMCoS has its share of experts but the great majority of us belong because we like maps, want to learn more about them and enjoy talking to enthusiasts with a similar interest.
