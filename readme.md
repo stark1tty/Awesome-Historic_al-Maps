@@ -25,6 +25,7 @@
   - [Europe](#Europe)
     - [Sweden](#Sweden)
     - [United Kingdom](#United-Kingdom)
+      - [England](#England)
       - [Scotland](#Scotland)
     - [Norway](#Norway)
   - [North America](#North-America)
@@ -139,6 +140,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 #### United Kingdom
 - [Digimap](https://digimap.edina.ac.uk/) (Requires UK University Log In) - Database viewer that includes a variety of Georeferenced Ordinance Survey Maps for the UK, as well as various modern basemaps, elevation and other data.
+
+##### England
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
 
 ##### Scotland
