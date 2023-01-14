@@ -29,6 +29,7 @@
     - [Norway](#Norway)
   - [North America](#North-America)
     - [United States](#United-States)
+      - [New York](#New-York)
 - [Further Reading](#Further-Reading)
 - [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
 - [Contribute](#Contribute)
@@ -149,6 +150,8 @@ About this section. Optional. Keep this short and focus on the list.
 ### North America
 
 #### United States
+
+##### New York
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
 
 ---
