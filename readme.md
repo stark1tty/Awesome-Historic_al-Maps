@@ -120,6 +120,12 @@ About this section. Optional. Keep this short and focus on the list.
 About this section. Optional. Keep this short and focus on the list.
 
 ### Applications
+- [QGIS](https://www.qgis.org/en/site/) - A free, open-source desktop GIS used for creating, editing, visualising, analysing and publishing geospatial information. It is part of the OSGeo project and can be used in conjunction with other open-source geospatial products.
+  - [Training material on the QGIS website](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/index.html)
+  - [further tutorials online](http://www.qgistutorials.com/en/)
+  - [LinkedIn Learning: QGIS Tutorials and Tips](https://www.linkedin.com/learning/learning-qgis-2015/welcome?u=76177458)
+- [ArcGIS Online](https://www.arcgis.com/) - ArcGIS Online is a completely web-based GIS useful for viewing, sharing and editing data. There is an increasing amount of published open GIS data that can be added quickly into the online map platform and some spatial analysis can be run on the fly. Requires an ArcGIS Online account, available as a University account or free personal account with limited credits. 
+  - [Tutorial](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
 - [MapAnalyst](https://mapanalyst.org/) - MapAnalyst is a software application for the accuracy analysis of old maps. Its main purpose is to compute distortion grids and other types of visualizations that illustrate the geometrical accuracy and distortion of old maps. [More about this tool here.](https://www.researchgate.net/publication/220144108_Visualizing_the_Planimetric_Accuracy_Of_Historical_Maps_With_MapAnalyst)
 - [Map Warper](https://github.com/timwaters/mapwarper) - Mapwarper is an open source map geo-rectification, warping and georeferencing application. It enables a user to upload an image, a scanned map or aerial photo for example, and by placing control points on a reference map and the image, to warp it, to stretch it to fit.
 - [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
