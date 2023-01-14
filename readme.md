@@ -32,7 +32,8 @@
   - [North America](#North-America)
     - [United States](#United-States)
       - [New York](#New-York)
-- [Other Useful Awesome Lists](#Other-Useful-Awesome-Lists)
+- [Other](#Other)
+  - [Useful Awesome Lists](#Useful-Awesome-Lists)
 - [Contribute](#Contribute)
 
 ---
@@ -170,8 +171,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 ---
 
-## Other Useful Awesome Lists
+## Other 
+- [International Map Collector's Society](https://www.imcos.org/) - IMCoS is a Society of people of all ages who love antique and vintage maps. We are a group of collectors, dealers, librarians, academics and just plain enthusiasts who share their common interest through meeting each other and exchanging information through a quarterly Journal. We live in many different countries and the society has organised events in all five continents through its network of international representatives. The Society supports the study of cartographic history by contributing to lecture programmes and research projects. IMCoS has its share of experts but the great majority of us belong because we like maps, want to learn more about them and enjoy talking to enthusiasts with a similar interest.
 
+### Useful Awesome Lists
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
 - [List item](http://example.com)
 
