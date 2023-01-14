@@ -81,7 +81,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
 ### Collections
-- [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes@
+- [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes:
   - [King George III Topographical and Maritime collections](https://www.bl.uk/collection-guides/king-george-iii): 30–40,000 maps, plans and views, both printed and hand-drawn, of all parts of the world
   - [Globes](https://www.bl.uk/collection-guides/globes): Terrestrial and celestial globes dating back to 1600 and gores dating to 1544
   - [Digital mapping](https://www.bl.uk/collection-guides/digital-mapping): Geospatial data, cartographic applications, digital aerial photography and scanned-in historic map materials
