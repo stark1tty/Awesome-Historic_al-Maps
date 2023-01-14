@@ -84,7 +84,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [National Library of Scotland Map Collection](https://maps.nls.uk/) - DESCRIPTION.
 - [Wikimedia Commons: Category - Maps](https://commons.wikimedia.org/wiki/Category:Maps) - Wikimedia has an extensive collection of maps. Make sure to search here.
 - [Archive.org - Images: Maps](https://archive.org/details/image?&and[]=subject%3A%22Map%22) - The Internet Archives has an extensive collection of maps. Make sure to search here.
-- [The National Archives Map Collection (UK)]([https://www.nationalarchives.gov.uk/maps/](https://images.nationalarchives.gov.uk/assetbank-nationalarchives/action/browseItems?categoryId=23&categoryTypeId=1))
+- [The National Archives Map Collection (UK)](https://www.nationalarchives.gov.uk/maps/](https://images.nationalarchives.gov.uk/assetbank-nationalarchives/action/browseItems?categoryId=23&categoryTypeId=1)
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - DESCRIPTION.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - The David Rumsey Map Collection was started over 35 years ago and contains more than 150,000 maps. The collection focuses on rare 16th through 21st century maps of North and South America, as well as maps of the World, Asia, Africa, Europe, and Oceania. The collection includes atlases, globes, wall maps, school geographies, pocket maps, books of exploration, maritime charts, and a variety of cartographic materials including pocket, wall, children's, and manuscript maps. Items range in date from around 1550 to the present.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User uploaded collection of interesting maps.
