@@ -152,10 +152,10 @@ About this section. Optional. Keep this short and focus on the list.
 ### World
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
-- [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
+- [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps.
 
 ### Europe
-- [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps of (mostly) Europe.
+- [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 
 #### The Netherlands
 - [Palaeogeographic maps of the Netherlands (Rijksdienst voor het Cultureel Erfgoed|Ministerie van Onderwijs, Cultuur en Wetenschap)](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf)
