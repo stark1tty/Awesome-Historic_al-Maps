@@ -155,6 +155,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 
 ### Europe
+- [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps of (mostly) Europe.
+
 #### The Netherlands
 - [Palaeogeographic maps of the Netherlands (Rijksdienst voor het Cultureel Erfgoed|Ministerie van Onderwijs, Cultuur en Wetenschap)](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf)
 
