@@ -170,6 +170,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Ordnance Survey National Grid maps, 1944-1971 (National Library of Scotland)](https://maps.nls.uk/geo/records/#zoom=5&lat=56.0000&lon=-4.0000&layers=0&b=0&point=0,0) - The most detailed Ordnance Survey maps after the Second World War, including all scales of mapping - 1:1,250, 1:2,500 and 1:10,560 for Scotland and London, and just 1:10,560 scale mapping for all other parts of England and Wales. NLoS have just put online out-of-copyright maps, published over 50 years ago.
 
 ##### England
+- [Matthew Paris’ Map of Britain (c. 1255 AD)](http://historiacartarum.org/annotated-claudius-map/) - An online, clickable interactive version of Matthew Paris' most famous map. Matthew Paris was a 13th-century Benedictine monk from St Albans in Hertfordshire who is renowned for his work as a historian, writer, artist, and cartographer. His maps of Britain were the most comprehensive of their time, featuring detailed depictions of the country's topography, including cathedrals, castles, ports, mountains, and rivers. Four of his maps still exist, with the most comprehensive being his *Abbreviatio compendiosa chronicorum Anglie* manuscript, which includes the walls of Hadrian and Antonine.
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
 
 ##### Scotland
