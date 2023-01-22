@@ -135,9 +135,10 @@ About this section. Optional. Keep this short and focus on the list.
 ### Historical Maps in GIS
 - [Historical Maps in GIS by David Rumsey and Meredith Williams](http://www.davidrumsey.com/gis/ch01.pdf)
 - Georeferencing
-  -  [Georeferencing in ArcGIS](https://storymaps.arcgis.com/stories/dd75d0398f7d4ded924d303161895b8b)
-  -  [Video: Georeferencing Tutorial for a Graduate Digital Humanities Course by Ryan Cordell](https://www.youtube.com/watch?v=jy9igyZbLjs&ab_channel=RyanCordell) - Using ArcGIS (YouTube)
-  -  [Georeferencing in QGIS](https://www.youtube.com/watch?v=g-4jFTR2EC0) (YouTube)
+  - [Georeferencing in ArcGIS](https://storymaps.arcgis.com/stories/dd75d0398f7d4ded924d303161895b8b)
+  - [Video: Georeferencing Tutorial for a Graduate Digital Humanities Course by Ryan Cordell](https://www.youtube.com/watch?v=jy9igyZbLjs&ab_channel=RyanCordell) - Using ArcGIS (YouTube)
+  - [Digitising Map Data in QGIS](https://www.qgistutorials.com/en/docs/digitizing_basics.html)
+  - [Georeferencing in QGIS](https://www.youtube.com/watch?v=g-4jFTR2EC0) (YouTube)
 - [Using LiDAR layers for landscape research (National Library of Scotland)](https://maps.nls.uk/guides/lidar/)
 - [Re-using georeferenced maps - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/georeferencing/)
 - [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
