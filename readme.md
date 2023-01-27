@@ -178,6 +178,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ##### England
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
+- [Key to English Place Names](http://kepn.nottingham.ac.uk/) - This is an up-to-date guide to the interpretation of the names of England's cities, towns and villages.
 
 ##### Scotland
 - [Charting the Nation](http://www.chartingthenation.lib.ed.ac.uk/) - The Charting the Nation image collection includes a wide variety of single maps and maps in atlases and other bound books, together with important manuscript and printed texts relating to the geography and mapping of Scotland from 1550 to 1740 and beyond.
