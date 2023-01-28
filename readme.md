@@ -203,6 +203,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Useful Awesome Lists
 - [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome list related to all things Geographic Information Systems (GIS).
+- [awesome-qgis](https://github.com/totpero/awesome-qgis) - Awesome list related to all things QGIS, the FOSS GIS program.
 - [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list/Wiki for ArcGIS users and developers.
 - [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - Curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources.
