@@ -106,7 +106,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [Map Warper](https://github.com/timwaters/mapwarper) - Mapwarper is an open source map geo-rectification, warping and georeferencing application. It enables a user to upload an image, a scanned map or aerial photo for example, and by placing control points on a reference map and the image, to warp it, to stretch it to fit.
 - [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
 - [HiRoNEx: Historical Road Network Extractor](https://github.com/johannesuhl/hironex) - A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
-- [MapReader](MapReader) - MapReader is an end-to-end computer vision (CV) pipeline for exploring and analyzing images at scale. MapReader was developed in the Living with Machines project to analyze large collections of historical maps but is a generalisable computer vision pipeline which can be applied to any images in a wide variety of domains.
+- [MapReader](https://github.com/Living-with-machines/MapReader) - MapReader is an end-to-end computer vision (CV) pipeline for exploring and analyzing images at scale. MapReader was developed in the Living with Machines project to analyze large collections of historical maps but is a generalisable computer vision pipeline which can be applied to any images in a wide variety of domains.
+- [desCartes](https://github.com/docuracy/desCartes) - desCartes recognises roads on old maps, and converts them to vector lines that can be used in GIS applications and historical transport network analysis.
 
 ### QGIS Extensions
 - [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. 
