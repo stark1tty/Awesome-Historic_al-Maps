@@ -14,7 +14,7 @@
   - [Search Engines](#Search-Engines)
   - [Databases](#Databases)
   - [Collections](#Collections)
-    - [Maritime](#Maritime)
+
   - [Dealers](#Dealers)
 - [Tools](#Tools)
   - [QGIS Extensions](#QGIS-Extensions)
@@ -26,7 +26,8 @@
   - [Further Reading](#Further-Reading)
 - [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
   - [Events](#Events)
-  - [Global](#Global)
+  - [World](#World)
+  - [Maritime](#Maritime)
   - [Europe](#Europe)
     - [The Netherlands](#The-Netherlands)
     - [Norway](#Norway)
@@ -83,10 +84,6 @@ About this section. Optional. Keep this short and focus on the list.
   - Other map collections in the Bodleian: The Commonwealth and African Aerial Photograph Archive holds a part copy of the Ordnance Survey International Collection. This comprises approximately 1.5 million aerial photographs of countries in Eastern, Southern, and Western Africa, as well as parts of Asia and the Americas. These images were taken by the Directorate of Overseas Surveys (DOS) mainly in the 1940s-1970s, to enable them to produce maps at ground scales of 1:30,000 to 1:50,000. Enquiries about this collection should be directed to the [archivist](lucy.mccann@bodleian.ox.ac.uk). 
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - The David Rumsey Map Collection was started over 35 years ago and contains more than 150,000 maps. The collection focuses on rare 16th through 21st century maps of North and South America, as well as maps of the World, Asia, Africa, Europe, and Oceania. The collection includes atlases, globes, wall maps, school geographies, pocket maps, books of exploration, maritime charts, and a variety of cartographic materials including pocket, wall, children's, and manuscript maps. Items range in date from around 1550 to the present.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User uploaded collection of interesting maps.
-
-#### Maritime
-- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
-- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
@@ -164,6 +161,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
 - [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps.
+
+#### Maritime
+- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
+- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
 ### Europe
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
