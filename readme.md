@@ -23,7 +23,7 @@
   - [Guides by Topic](#Guides-by-Topic)
   - [Historical Maps in GIS](#Historical-Maps-in-GIS)
   - [Further Reading](#Further-Reading)
-- [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
+- [Research Projects & Location Specific Collections](#Research-Projects-&-Location-Specific-Collections)
   - [Events](#Events)
   - [World](#World)
   - [Maritime](#Maritime)
