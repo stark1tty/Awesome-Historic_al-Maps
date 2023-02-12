@@ -25,6 +25,7 @@
   - [Historical Maps in GIS](#Historical-Maps-in-GIS)
   - [Further Reading](#Further-Reading)
 - [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
+  - [Events](#Events)
   - [Global](#Global)
   - [Europe](#Europe)
     - [The Netherlands](#The-Netherlands)
@@ -33,6 +34,7 @@
     - [United Kingdom](#United-Kingdom)
       - [England](#England)
       - [Scotland](#Scotland)
+      - [Wales](#Wales)
   - [North America](#North-America)
     - [United States](#United-States)
       - [New York](#New-York)
@@ -84,6 +86,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 #### Maritime
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
+- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
@@ -154,6 +157,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Research Projects & Location Specific Collections
 
+### Events
+[WW1 maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps)
+
 ### World
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
@@ -186,6 +192,15 @@ About this section. Optional. Keep this short and focus on the list.
 ##### Scotland
 - [Charting the Nation](http://www.chartingthenation.lib.ed.ac.uk/) - The Charting the Nation image collection includes a wide variety of single maps and maps in atlases and other bound books, together with important manuscript and printed texts relating to the geography and mapping of Scotland from 1550 to 1740 and beyond.
 - [Roy Military Survey of Scotland, 1747-55 (National Library of Scotland)](https://maps.nls.uk/geo/roy/#zoom=7&lat=56.8860&lon=-4.0709&layers=0) - The Roy Military Survey of Scotland, known to its contemporaries as the 'Great Map', is a uniquely important historical cartographic document. It provides a uniform graphic snapshot of the entire Scottish mainland at a time when the landscape was beginning an era of rapid change. For many Highland areas, it is the most detailed and informative map that survives for the entire 18th century, and for all areas, the only standard topographic map prior to the Ordnance Survey mapping in the 19th century.
+
+##### Wales
+- [National Library of Wales](https://www.library.wales/discover/digital-gallery/maps/)
+  - [Maps of Wales - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/maps-of-wales)
+  - [County maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/county-maps)
+  - [Estate Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/estate-maps)
+  - [Town Plans - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/town-plans)
+  - [Welsh Tithe Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/welsh-tithe-maps)
+  - [Idris Mathias’ Manuscript Map of the Lower Teifi Valley - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/idris-mathias-manuscript-map-of-the-lower-teifi-valley) - Browse Idris Mathias' beautiful manuscript map of the lower Teifi Valley.
 
 ### North America
 
