@@ -14,7 +14,6 @@
   - [Search Engines](#Search-Engines)
   - [Databases](#Databases)
   - [Collections](#Collections)
-
   - [Dealers](#Dealers)
 - [Tools](#Tools)
   - [QGIS Extensions](#QGIS-Extensions)
