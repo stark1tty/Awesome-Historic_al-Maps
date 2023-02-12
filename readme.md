@@ -23,7 +23,7 @@
   - [Guides by Topic](#Guides-by-Topic)
   - [Historical Maps in GIS](#Historical-Maps-in-GIS)
   - [Further Reading](#Further-Reading)
-- [Research Projects & Location Specific Collections](#Research-Projects-&-Location-Specific-Collections)
+- [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
   - [Events](#Events)
   - [World](#World)
   - [Maritime](#Maritime)
@@ -151,7 +151,7 @@ About this section. Optional. Keep this short and focus on the list.
 ---
 | ▲ [Top](#Awesome-Historic_al-Maps) |
 
-## Research Projects & Location Specific Collections
+## Research Projects and Location Specific Collections
 
 ### Events
 [WW1 maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps)
