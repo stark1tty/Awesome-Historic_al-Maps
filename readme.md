@@ -212,8 +212,6 @@ Meta historical mapping search engines and other geospatial data.
 
 ## Research Guides
 
-About this section. Optional. Keep this short and focus on the list.
-
 ### General Research Guides
 - [A Guide to Reading Historic Maps (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/)
 - [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
@@ -245,8 +243,6 @@ About this section. Optional. Keep this short and focus on the list.
 | ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ## Tools
-
-About this section. Optional. Keep this short and focus on the list.
 
 ### Applications
 - [QGIS](https://www.qgis.org/en/site/) - A free, open-source desktop GIS used for creating, editing, visualising, analysing and publishing geospatial information. It is part of the OSGeo project and can be used in conjunction with other open-source geospatial products.
