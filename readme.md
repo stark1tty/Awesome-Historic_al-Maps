@@ -63,7 +63,7 @@
 Meta historical mapping search engines and other geospatial data.
 
 ### Search Engines
-- [Old Maps Online](https://www.oldmapsonline.org/) - DESCRIPTION.
+- [Old Maps Online](https://www.oldmapsonline.org/) - OldMapsOnline search catalog that allows visitors to explore and discover the beauty of historical maps depicting a past geographical place of their interest.
 - [National Library of Scotland's Map Finder](https://maps.nls.uk/geo/find/#zoom=7.0&lat=57.00000&lon=-4.40000&layers=102&b=1&z=0&point=0,0)
 
 ### Databases
