@@ -42,6 +42,7 @@
       - [Wales](#Wales)
   - [North America](#North-America)
     - [United States](#United-States)
+      - [Minnesota](#Minnesota)
       - [New York](#New-York)
 - [Other](#Other)
   - [Organisations](#Organisations)
@@ -181,6 +182,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Europe
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
+- [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
 
 #### The Netherlands
 - [Amsterdam University Library. 'Kaartencollectie'](http://dpc.uba.uva.nl/kaartencollectie/) covering The Netherlands and the rest of the world; offering groups of images with introductory text (in Dutch), including pages devoted to wall-maps (with the 1639 Colom map treated separately), the work of C. Claesz, water-feature mapping, the Atlas Van Schagen, the Goos 'Paskaart van Oost-Indi' (c.1658), etc.
@@ -233,6 +235,9 @@ About this section. Optional. Keep this short and focus on the list.
 #### United States
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [New England Historic and Placename Directory](http://broermapsonline.org/site/placename-directory/) - Containing over 100,000 names. 
+
+##### Minnesota
+- [John R. Borchert Map Library, University of Minnesota]( https://www.lib.umn.edu/borchert) - With material on Minnesota, the USA and the rest of the world.
 
 ##### New York
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
