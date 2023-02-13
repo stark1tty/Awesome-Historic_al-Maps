@@ -40,6 +40,7 @@
   - [Historical Maps in GIS](#Historical-Maps-in-GIS)
   - [Further Reading](#Further-Reading)
 - [Tools](#Tools)
+  - [Applications](#Applications)
   - [QGIS Extensions](#QGIS-Extensions)
   - [APIs](#APIs)
 - [Dealers](#Dealers)
