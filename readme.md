@@ -13,17 +13,7 @@
 - [Databases and Search Engines](#Databases-and-Search-Engines)
   - [Search Engines](#Search-Engines)
   - [Databases](#Databases)
-  - [Collections](#Collections)
-  - [Dealers](#Dealers)
-- [Tools](#Tools)
-  - [QGIS Extensions](#QGIS-Extensions)
-  - [APIs](#APIs)
-- [Research Guides](#Research-Guides)
-  - [General Research Guides](#General-Research-Guides)
-  - [Guides by Topic](#Guides-by-Topic)
-  - [Historical Maps in GIS](#Historical-Maps-in-GIS)
-  - [Further Reading](#Further-Reading)
-- [Research Projects & Location Specific Collections](#Research-Projects-and-Location-Specific-Collections)
+- [Map Collections](#Map-Collections)
   - [Events](#Events)
   - [World](#World)
   - [Maritime](#Maritime)
@@ -44,6 +34,15 @@
     - [United States](#United-States)
       - [Minnesota](#Minnesota)
       - [New York](#New-York)
+- [Research Guides](#Research-Guides)
+  - [General Research Guides](#General-Research-Guides)
+  - [Guides by Topic](#Guides-by-Topic)
+  - [Historical Maps in GIS](#Historical-Maps-in-GIS)
+  - [Further Reading](#Further-Reading)
+- [Tools](#Tools)
+  - [QGIS Extensions](#QGIS-Extensions)
+  - [APIs](#APIs)
+- [Dealers](#Dealers)
 - [Other](#Other)
   - [Organisations](#Organisations)
   - [Links](#Links)
@@ -56,7 +55,7 @@
 
 ## Databases and Search Engines
 
-About this section. Optional. Keep this short and focus on the list.
+Meta historical mapping search engines and other geospatial data.
 
 ### Search Engines
 - [Old Maps Online](https://www.oldmapsonline.org/) - DESCRIPTION.
@@ -67,7 +66,30 @@ About this section. Optional. Keep this short and focus on the list.
 - [World Historical Gazetteer](https://whgazetteer.org/) - World Historical Gazetteer (WHG) is providing a collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 - [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
-### Meta Collections
+---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+## Map Collections
+
+### Events
+[WW1 maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps)
+
+### World
+- [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
+- [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
+- [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps.
+
+#### Maritime
+- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
+- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
+
+### Africa
+- [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa.
+
+### Caribbean
+- [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
+
+### Europe
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [ChronoScope World](https://mprove.de/chronoscope/world.html) - Chronoscope World is a time machine to explore the history of the world by browsing maps dating back to 14th century B.C. More than 4,200 high-resolution maps can be displayed in a maps application on the correct geo location.
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes:
@@ -91,96 +113,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps, covering all parts of the world, sold by the dealer in La Jolla, California - mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
 - [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection.
-- [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection
-
-### Dealers
-- [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
-
----
-| ▲ [Top](#Awesome-Historic_al-Maps) |
-
-## Tools
-
-About this section. Optional. Keep this short and focus on the list.
-
-### Applications
-- [QGIS](https://www.qgis.org/en/site/) - A free, open-source desktop GIS used for creating, editing, visualising, analysing and publishing geospatial information. It is part of the OSGeo project and can be used in conjunction with other open-source geospatial products.
-  - [Training material on the QGIS website](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/index.html)
-  - [further tutorials online](http://www.qgistutorials.com/en/)
-  - [LinkedIn Learning: QGIS Tutorials and Tips](https://www.linkedin.com/learning/learning-qgis-2015/welcome?u=76177458)
-- [ArcGIS Online](https://www.arcgis.com/) - ArcGIS Online is a completely web-based GIS useful for viewing, sharing and editing data. There is an increasing amount of published open GIS data that can be added quickly into the online map platform and some spatial analysis can be run on the fly. Requires an ArcGIS Online account, available as a University account or free personal account with limited credits. 
-  - [Tutorial](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
-- [MapAnalyst](https://mapanalyst.org/) - MapAnalyst is a software application for the accuracy analysis of old maps. Its main purpose is to compute distortion grids and other types of visualizations that illustrate the geometrical accuracy and distortion of old maps. [More about this tool here.](https://www.researchgate.net/publication/220144108_Visualizing_the_Planimetric_Accuracy_Of_Historical_Maps_With_MapAnalyst)
-- [Map Warper](https://github.com/timwaters/mapwarper) - Mapwarper is an open source map geo-rectification, warping and georeferencing application. It enables a user to upload an image, a scanned map or aerial photo for example, and by placing control points on a reference map and the image, to warp it, to stretch it to fit.
-- [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
-- [HiRoNEx: Historical Road Network Extractor](https://github.com/johannesuhl/hironex) - A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
-- [MapReader](https://github.com/Living-with-machines/MapReader) - MapReader is an end-to-end computer vision (CV) pipeline for exploring and analyzing images at scale. MapReader was developed in the Living with Machines project to analyze large collections of historical maps but is a generalisable computer vision pipeline which can be applied to any images in a wide variety of domains.
-- [desCartes](https://github.com/docuracy/desCartes) - desCartes recognises roads on old maps, and converts them to vector lines that can be used in GIS applications and historical transport network analysis.
-
-### QGIS Extensions
-- [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. 
-
-### APIs
-- [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
-
----
-| ▲ [Top](#Awesome-Historic_al-Maps) |
-
-## Research Guides
-
-About this section. Optional. Keep this short and focus on the list.
-
-### General Research Guides
-- [A Guide to Reading Historic Maps (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/)
-- [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
-
-### Guides by Topic
-- [Cartographic Fakes, Forgeries and Facsimiles likely to deceive](http://www.maphistory.info/fakes.html) - A guide to identifying fake maps as well as a list of known forgeries. 
-- [Guide to Figuring out the Age of an Undated World Map (xkcd)](https://xkcd.com/1688/)
-- [Researching boundaries of parishes and counties (National Library of Scotland)](https://maps.nls.uk/geo/boundaries/history.html)
-- [Researching climate change (National Library of Scotland)](https://maps.nls.uk/guides/climate/)
-- [Researching house and building history (National Library of Scotland)](https://maps.nls.uk/guides/houses/)
-- [Researching local history (National Library of Scotland)](https://maps.nls.uk/guides/local-history/)
-- [Researching woodland history (National Library of Scotland)](https://maps.nls.uk/guides/woodland/)
-
-### Historical Maps in GIS
-- [Historical Maps in GIS by David Rumsey and Meredith Williams](http://www.davidrumsey.com/gis/ch01.pdf)
-- Georeferencing
-  - [Georeferencing in ArcGIS](https://storymaps.arcgis.com/stories/dd75d0398f7d4ded924d303161895b8b)
-  - [Video: Georeferencing Tutorial for a Graduate Digital Humanities Course by Ryan Cordell](https://www.youtube.com/watch?v=jy9igyZbLjs&ab_channel=RyanCordell) - Using ArcGIS (YouTube)
-  - [Digitising Map Data in QGIS](https://www.qgistutorials.com/en/docs/digitizing_basics.html)
-  - [Georeferencing in QGIS](https://www.youtube.com/watch?v=g-4jFTR2EC0) (YouTube)
-- [Using LiDAR layers for landscape research (National Library of Scotland)](https://maps.nls.uk/guides/lidar/)
-- [Re-using georeferenced maps - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/georeferencing/)
-- [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
-
-### Further Reading
-- [Map History/History of Cartography](http://www.maphistory.info/index.html) - A long running, general information site with information about old maps, both on the web and in the real world.
-
----
-| ▲ [Top](#Awesome-Historic_al-Maps) |
-
-## Research Projects and Location Specific Collections
-
-### Events
-[WW1 maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps)
-
-### World
-- [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
-- [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
-- [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps.
-
-#### Maritime
-- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
-- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
-
-### Africa
-- [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa.
-
-### Caribbean
-- [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
-
-### Europe
+- [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection.
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 - [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
 
@@ -241,6 +174,73 @@ About this section. Optional. Keep this short and focus on the list.
 
 ##### New York
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
+
+---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+## Research Guides
+
+About this section. Optional. Keep this short and focus on the list.
+
+### General Research Guides
+- [A Guide to Reading Historic Maps (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/)
+- [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
+
+### Guides by Topic
+- [Cartographic Fakes, Forgeries and Facsimiles likely to deceive](http://www.maphistory.info/fakes.html) - A guide to identifying fake maps as well as a list of known forgeries. 
+- [Guide to Figuring out the Age of an Undated World Map (xkcd)](https://xkcd.com/1688/)
+- [Researching boundaries of parishes and counties (National Library of Scotland)](https://maps.nls.uk/geo/boundaries/history.html)
+- [Researching climate change (National Library of Scotland)](https://maps.nls.uk/guides/climate/)
+- [Researching house and building history (National Library of Scotland)](https://maps.nls.uk/guides/houses/)
+- [Researching local history (National Library of Scotland)](https://maps.nls.uk/guides/local-history/)
+- [Researching woodland history (National Library of Scotland)](https://maps.nls.uk/guides/woodland/)
+
+### Historical Maps in GIS
+- [Historical Maps in GIS by David Rumsey and Meredith Williams](http://www.davidrumsey.com/gis/ch01.pdf)
+- Georeferencing
+  - [Georeferencing in ArcGIS](https://storymaps.arcgis.com/stories/dd75d0398f7d4ded924d303161895b8b)
+  - [Video: Georeferencing Tutorial for a Graduate Digital Humanities Course by Ryan Cordell](https://www.youtube.com/watch?v=jy9igyZbLjs&ab_channel=RyanCordell) - Using ArcGIS (YouTube)
+  - [Digitising Map Data in QGIS](https://www.qgistutorials.com/en/docs/digitizing_basics.html)
+  - [Georeferencing in QGIS](https://www.youtube.com/watch?v=g-4jFTR2EC0) (YouTube)
+- [Using LiDAR layers for landscape research (National Library of Scotland)](https://maps.nls.uk/guides/lidar/)
+- [Re-using georeferenced maps - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/georeferencing/)
+- [Re-using map datasets - within GIS and other software (National Library of Scotland)](https://maps.nls.uk/guides/datasets/)
+
+### Further Reading
+- [Map History/History of Cartography](http://www.maphistory.info/index.html) - A long running, general information site with information about old maps, both on the web and in the real world.
+
+---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+## Tools
+
+About this section. Optional. Keep this short and focus on the list.
+
+### Applications
+- [QGIS](https://www.qgis.org/en/site/) - A free, open-source desktop GIS used for creating, editing, visualising, analysing and publishing geospatial information. It is part of the OSGeo project and can be used in conjunction with other open-source geospatial products.
+  - [Training material on the QGIS website](https://docs.qgis.org/3.4/en/docs/gentle_gis_introduction/index.html)
+  - [further tutorials online](http://www.qgistutorials.com/en/)
+  - [LinkedIn Learning: QGIS Tutorials and Tips](https://www.linkedin.com/learning/learning-qgis-2015/welcome?u=76177458)
+- [ArcGIS Online](https://www.arcgis.com/) - ArcGIS Online is a completely web-based GIS useful for viewing, sharing and editing data. There is an increasing amount of published open GIS data that can be added quickly into the online map platform and some spatial analysis can be run on the fly. Requires an ArcGIS Online account, available as a University account or free personal account with limited credits. 
+  - [Tutorial](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)
+- [MapAnalyst](https://mapanalyst.org/) - MapAnalyst is a software application for the accuracy analysis of old maps. Its main purpose is to compute distortion grids and other types of visualizations that illustrate the geometrical accuracy and distortion of old maps. [More about this tool here.](https://www.researchgate.net/publication/220144108_Visualizing_the_Planimetric_Accuracy_Of_Historical_Maps_With_MapAnalyst)
+- [Map Warper](https://github.com/timwaters/mapwarper) - Mapwarper is an open source map geo-rectification, warping and georeferencing application. It enables a user to upload an image, a scanned map or aerial photo for example, and by placing control points on a reference map and the image, to warp it, to stretch it to fit.
+- [Georeferencer: Crowdsourced Georeferencing for Map Library Collections](http://www.dlib.org/dlib/november12/fleet/11fleet.html)
+- [HiRoNEx: Historical Road Network Extractor](https://github.com/johannesuhl/hironex) - A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
+- [MapReader](https://github.com/Living-with-machines/MapReader) - MapReader is an end-to-end computer vision (CV) pipeline for exploring and analyzing images at scale. MapReader was developed in the Living with Machines project to analyze large collections of historical maps but is a generalisable computer vision pipeline which can be applied to any images in a wide variety of domains.
+- [desCartes](https://github.com/docuracy/desCartes) - desCartes recognises roads on old maps, and converts them to vector lines that can be used in GIS applications and historical transport network analysis.
+
+### QGIS Extensions
+- [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. 
+
+### APIs
+- [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
+
+---
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+### Dealers
+- [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
 ---
 | ▲ [Top](#Awesome-Historic_al-Maps) |
