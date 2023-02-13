@@ -27,6 +27,7 @@
   - [Events](#Events)
   - [World](#World)
   - [Maritime](#Maritime)
+  - [Caribbean](#Caribbean)
   - [Europe](#Europe)
     - [The Netherlands](#The-Netherlands)
     - [Norway](#Norway)
@@ -34,6 +35,8 @@
     - [Switzerland](#Switzerland)
     - [United Kingdom](#United-Kingdom)
       - [England](#England)
+        - [Hampshire](#Hampshire)
+        - [London](#London)
       - [Scotland](#Scotland)
       - [Wales](#Wales)
   - [North America](#North-America)
@@ -170,6 +173,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
 - [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
+### Caribbean
+- [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
+
 ### Europe
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 
@@ -195,8 +201,13 @@ About this section. Optional. Keep this short and focus on the list.
 - [The Gough Map](https://goughmap.uk/map.php) - 14th C. map of Great Britian; The map is 115 cm x 56 cm in size on vellum, and consists of the coastline of the island of Great Britain, several smaller islands and parts of the coastlines of Ireland and the Continent. Rivers are depicted, and over 600 cities, towns and smaller settlements are represented by churches, fortifications or simple houses. Conventionally dated c. 1360 - c. 1370, it has been suggested on palaeographical grounds [Smallwood, 2010] that the map was made one or two decades after 1400. [More here.](https://www.ucl.ac.uk/early-medieval-atlas/map-data/routes-gough-map)
 
 ##### England
-- [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
 - [Key to English Place Names](http://kepn.nottingham.ac.uk/) - This is an up-to-date guide to the interpretation of the names of England's cities, towns and villages.
+
+###### Hampshire
+- [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
+
+###### London
+- [Crace Collection of London plans](https://www.bl.uk/onlinegallery/onlineex/crace/) - Over 1200 maps and plans of the capital: a fascinating collection brought together by the Victorian designer, Frederick Crace.
 
 ##### Scotland
 - [Charting the Nation](http://www.chartingthenation.lib.ed.ac.uk/) - The Charting the Nation image collection includes a wide variety of single maps and maps in atlases and other bound books, together with important manuscript and printed texts relating to the geography and mapping of Scotland from 1550 to 1740 and beyond.
