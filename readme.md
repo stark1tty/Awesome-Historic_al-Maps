@@ -257,6 +257,7 @@ Meta historical mapping search engines and other geospatial data.
 - [HiRoNEx: Historical Road Network Extractor](https://github.com/johannesuhl/hironex) - A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 - [MapReader](https://github.com/Living-with-machines/MapReader) - MapReader is an end-to-end computer vision (CV) pipeline for exploring and analyzing images at scale. MapReader was developed in the Living with Machines project to analyze large collections of historical maps but is a generalisable computer vision pipeline which can be applied to any images in a wide variety of domains.
 - [desCartes](https://github.com/docuracy/desCartes) - desCartes recognises roads on old maps, and converts them to vector lines that can be used in GIS applications and historical transport network analysis.
+- [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps. 100,000s of maps are available through IIIF, across libraries, archives and museums worldwide. Allmaps makes it easier and more inspiring to explore, georeference and work with collections of digitized maps.
 
 ### QGIS Extensions
 - [Historical Maps Vectorization Tools](https://github.com/EVS-GIS/hmvt-cli) - A toolbox to vectorize fluvial corridor objects on historical maps. 
