@@ -90,7 +90,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User uploaded collection of interesting maps.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps, covering all parts of the world, sold by the dealer in La Jolla, California - mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
-- [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection,
+- [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection.
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
@@ -202,6 +202,8 @@ About this section. Optional. Keep this short and focus on the list.
 
 ##### England
 - [Key to English Place Names](http://kepn.nottingham.ac.uk/) - This is an up-to-date guide to the interpretation of the names of England's cities, towns and villages.
+- [Goad fire insurance plans of the British Isles]( http://www.bl.uk/onlinegallery/onlineex/firemaps/fireinsurancemaps.html) - The British Library holds a comprehensive collection of fire insurance plans produced by the firm Charles E. Goad Ltd. dating back to 1885. These maps were made for most important towns and cities of the British Isles, and are invaluable sources of detailed information about urban areas and town centres.
+- [The Unveiling of Britain, 800-1600](https://www.bl.uk/onlinegallery/onlineex/unvbrit/index.html) - This selection of maps and views traces the growing awareness of the form of British Isles and their place in the wider world from 800 to 1600.
 
 ###### Hampshire
 - [Old Hampshire Mapped](https://www.oldhampshiremapped.org.uk/) - Comprehensive catalogue of Hampshire (UK) maps and related items, illustrated from the County Museums Service Collection, 2003.
