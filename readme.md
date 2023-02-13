@@ -111,6 +111,8 @@ Meta historical mapping search engines and other geospatial data.
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
 - [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
 ### Military and Campaigns
 
 #### US Civil War
@@ -194,8 +196,6 @@ Meta historical mapping search engines and other geospatial data.
 | ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ### North America
-
-| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 #### United States
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
