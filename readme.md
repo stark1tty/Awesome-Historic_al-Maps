@@ -31,6 +31,7 @@
     - [The Netherlands](#The-Netherlands)
     - [Norway](#Norway)
     - [Sweden](#Sweden)
+    - [Switzerland](#Switzerland)
     - [United Kingdom](#United-Kingdom)
       - [England](#England)
       - [Scotland](#Scotland)
@@ -62,6 +63,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
 ### Collections
+- [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [ChronoScope World](https://mprove.de/chronoscope/world.html) - Chronoscope World is a time machine to explore the history of the world by browsing maps dating back to 14th century B.C. More than 4,200 high-resolution maps can be displayed in a maps application on the correct geo location.
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes:
   - [King George III Topographical and Maritime collections](https://www.bl.uk/collection-guides/king-george-iii): 30–40,000 maps, plans and views, both printed and hand-drawn, of all parts of the world
@@ -83,6 +85,9 @@ About this section. Optional. Keep this short and focus on the list.
   - Other map collections in the Bodleian: The Commonwealth and African Aerial Photograph Archive holds a part copy of the Ordnance Survey International Collection. This comprises approximately 1.5 million aerial photographs of countries in Eastern, Southern, and Western Africa, as well as parts of Asia and the Americas. These images were taken by the Directorate of Overseas Surveys (DOS) mainly in the 1940s-1970s, to enable them to produce maps at ground scales of 1:30,000 to 1:50,000. Enquiries about this collection should be directed to the [archivist](lucy.mccann@bodleian.ox.ac.uk). 
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - The David Rumsey Map Collection was started over 35 years ago and contains more than 150,000 maps. The collection focuses on rare 16th through 21st century maps of North and South America, as well as maps of the World, Asia, Africa, Europe, and Oceania. The collection includes atlases, globes, wall maps, school geographies, pocket maps, books of exploration, maritime charts, and a variety of cartographic materials including pocket, wall, children's, and manuscript maps. Items range in date from around 1550 to the present.
 - [r/oldmaps (Reddit)](https://www.reddit.com/r/oldmaps/) - User uploaded collection of interesting maps.
+- [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps, covering all parts of the world, sold by the dealer in La Jolla, California - mounted on the Stanford University Image Gallery.
+- [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
+- [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection,
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
@@ -169,6 +174,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 
 #### The Netherlands
+- [Amsterdam University Library. 'Kaartencollectie'](http://dpc.uba.uva.nl/kaartencollectie/) covering The Netherlands and the rest of the world; offering groups of images with introductory text (in Dutch), including pages devoted to wall-maps (with the 1639 Colom map treated separately), the work of C. Claesz, water-feature mapping, the Atlas Van Schagen, the Goos 'Paskaart van Oost-Indi' (c.1658), etc.
 - [Palaeogeographic maps of the Netherlands (Rijksdienst voor het Cultureel Erfgoed | Ministerie van Onderwijs, Cultuur en Wetenschap)](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf)
 
 #### Norway
@@ -176,6 +182,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 #### Sweden
 - [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
+
+#### Switzerland
+- [Basel University Library](https://commons.m.wikimedia.org/wiki/Category:UB_Basel_Maps) - Maps of Switzerland and elsewhere, with a choice of resolution.
 
 #### United Kingdom
 - [British History Online](https://www.british-history.ac.uk/catalogue/maps) - Historic maps of London from before 1800 and maps from the 19th-century series of the Ordnance Survey, including the complete 1:10,560 series and selected areas of the 1:2,500 maps. The Ordnance Survey maps can searched by keyword, title or postcode. Website also contains a plethora of digitised primary sources throughout Britsh history. 
@@ -205,6 +214,7 @@ About this section. Optional. Keep this short and focus on the list.
 ### North America
 
 #### United States
+- [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 
 ##### New York
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
