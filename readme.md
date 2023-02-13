@@ -80,18 +80,6 @@ Meta historical mapping search engines and other geospatial data.
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
 - [Historia Cartarum](https://historiacartarum.org/) - Website of Dr. John Wyatt Greenlee (Cornell University), providing resources, links and information about Medieval Maps.
-
-#### Maritime
-- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
-- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
-
-### Africa
-- [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa.
-
-### Caribbean
-- [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
-
-### Europe
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [ChronoScope World](https://mprove.de/chronoscope/world.html) - Chronoscope World is a time machine to explore the history of the world by browsing maps dating back to 14th century B.C. More than 4,200 high-resolution maps can be displayed in a maps application on the correct geo location.
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes:
@@ -116,6 +104,26 @@ Meta historical mapping search engines and other geospatial data.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
 - [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection.
 - [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection.
+
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+#### Maritime
+- [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
+- [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
+
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+### Africa
+- [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa.
+
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+### Caribbean
+- [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
+
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
+### Europe
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 - [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
 
@@ -134,6 +142,8 @@ Meta historical mapping search engines and other geospatial data.
 
 #### Switzerland
 - [Basel University Library](https://commons.m.wikimedia.org/wiki/Category:UB_Basel_Maps) - Maps of Switzerland and elsewhere, with a choice of resolution.
+
+| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 #### United Kingdom
 - [British History Online](https://www.british-history.ac.uk/catalogue/maps) - Historic maps of London from before 1800 and maps from the 19th-century series of the Ordnance Survey, including the complete 1:10,560 series and selected areas of the 1:2,500 maps. The Ordnance Survey maps can searched by keyword, title or postcode. Website also contains a plethora of digitised primary sources throughout Britsh history. 
@@ -168,7 +178,11 @@ Meta historical mapping search engines and other geospatial data.
   - [Welsh Tithe Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/welsh-tithe-maps)
   - [Idris Mathias’ Manuscript Map of the Lower Teifi Valley - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/idris-mathias-manuscript-map-of-the-lower-teifi-valley) - Browse Idris Mathias' beautiful manuscript map of the lower Teifi Valley.
 
+| ▲ [Top](#Awesome-Historic_al-Maps) |
+
 ### North America
+
+| ▲ [Top](#Awesome-Historic_al-Maps) |
 
 #### United States
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
