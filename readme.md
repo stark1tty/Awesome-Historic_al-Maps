@@ -14,9 +14,12 @@
   - [Search Engines](#Search-Engines)
   - [Databases](#Databases)
 - [Map Collections](#Map-Collections)
-  - [Events](#Events)
   - [World](#World)
   - [Maritime](#Maritime)
+  - [Military and Campaigns](#Military-and-Campaigns)
+    - [US Civil War](#US-Civil-War)
+    - [WW1](#WW1)
+    - [WW2](#WW2)
   - [Africa](#Africa)
   - [Caribbean](#Caribbean)
   - [Europe](#Europe)
@@ -73,9 +76,6 @@ Meta historical mapping search engines and other geospatial data.
 
 ## Map Collections
 
-### Events
-[WW1 maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps)
-
 ### World
 - [The Pelagios Network](https://pelagios.org/) - The Pelagios Network connects researchers, scientists and curators to link and explore the history of places. It is a long-running initiative that links information online through common references to places.
 - [World Historical Atlas](http://x768.com/w/twha.en) - The World Historical Atlas is a world map which shows change of countries from the ancient time to the present time. [Patched version here.](https://github.com/kaorahi/patched-historical-atlas)
@@ -107,9 +107,21 @@ Meta historical mapping search engines and other geospatial data.
 
 | ▲ [Top](#Awesome-Historic_al-Maps) |
 
-#### Maritime
+### Maritime
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
 - [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
+
+### Military and Campaigns
+
+#### US Civil War
+- [Civil War Maps](https://www.loc.gov/collections/civil-war-maps)  
+- ['Civil War Treasures from the New-York Historical Society'](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47)
+
+#### WW1
+- [WW1 maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/ww1-maps)
+
+#### WW2
+- [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
 | ▲ [Top](#Awesome-Historic_al-Maps) |
 
