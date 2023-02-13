@@ -52,6 +52,8 @@
   - [Organisations](#Organisations)
   - [Links](#Links)
   - [Useful Awesome Lists](#Useful-Awesome-Lists)
+    - [Digital Humanities](#digital-humanities)
+    - [Geospatial](#geospatial)
 - [Contribute](#Contribute)
 
 ---
@@ -282,7 +284,11 @@ Meta historical mapping search engines and other geospatial data.
 - [Cartography Portal on Wikipedia](https://en.wikipedia.org/wiki/Category:Cartography)
 
 ### Useful Awesome Lists
-- [Awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome list related to all things Geographic Information Systems (GIS).
+#### Digital Humanities
+- [awesome digital humanities](https://github.com/dh-tech/awesome-digital-humanities) - Software for humanities scholars using quantitative or computational methods.
+
+#### Geospatial
+- [awesome GIS](https://github.com/sshuair/awesome-gis) - Awesome list related to all things Geographic Information Systems (GIS).
 - [awesome-qgis](https://github.com/totpero/awesome-qgis) - Awesome list related to all things QGIS, the FOSS GIS program.
 - [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list/Wiki for ArcGIS users and developers.
 - [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - Curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
