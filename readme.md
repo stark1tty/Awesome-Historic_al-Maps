@@ -27,6 +27,7 @@
   - [Events](#Events)
   - [World](#World)
   - [Maritime](#Maritime)
+  - [Africa](#Africa)
   - [Caribbean](#Caribbean)
   - [Europe](#Europe)
     - [The Netherlands](#The-Netherlands)
@@ -65,7 +66,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [World Historical Gazetteer](https://whgazetteer.org/) - World Historical Gazetteer (WHG) is providing a collection of content and services that permit world historians, their students, and the general public to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
 - [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
-### Collections
+### Meta Collections
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [ChronoScope World](https://mprove.de/chronoscope/world.html) - Chronoscope World is a time machine to explore the history of the world by browsing maps dating back to 14th century B.C. More than 4,200 high-resolution maps can be displayed in a maps application on the correct geo location.
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes:
@@ -73,8 +74,6 @@ About this section. Optional. Keep this short and focus on the list.
   - [Globes](https://www.bl.uk/collection-guides/globes): Terrestrial and celestial globes dating back to 1600 and gores dating to 1544
   - [Digital mapping](https://www.bl.uk/collection-guides/digital-mapping): Geospatial data, cartographic applications, digital aerial photography and scanned-in historic map materials
   - [Manuscript maps](https://www.bl.uk/collection-guides/manuscript-maps): Cartography from the Middle Ages to the present
-  - [Ordnance survey mapping](https://www.bl.uk/collection-guides/ordnance-survey-mapping): The most comprehensive, publicly accessible collection of Ordnance Survey maps in the world
-  - [War Office Archive maps](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa
   - [Visual arts](https://www.bl.uk/subjects/visual-arts): Visual arts collections include paintings, drawings, prints and photographs.
 - [National Library of Scotland Map Collection](https://maps.nls.uk/) - Extensive collection of maps from around the world including: Ordnance Survey maps, Maps of Scotland, County Maps, Estate Maps, Town Plans and views, Coastal/Admiralty charts, Military maps, Series maps, Bridges/Canals/Railways, Air Photo mosaics, Bathymetrical Survey, International/non-UK maps, and Atlases.
 - [Wikimedia Commons: Category - Maps](https://commons.wikimedia.org/wiki/Category:Maps) - Wikimedia has an extensive collection of maps. Make sure to search here.
@@ -91,6 +90,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [The Barry Lawrence Ruderman Collection](https://searchworks.stanford.edu/view/jw357py5564) - Collection of early maps, covering all parts of the world, sold by the dealer in La Jolla, California - mounted on the Stanford University Image Gallery.
 - [Basel Mission Archives](http://www.bmarchives.org/) - Maps, sketches and plans relating to various parts of the world where the different Protestant missions operated.
 - [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection.
+- [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
@@ -173,6 +173,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
 - [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
+### Africa
+- [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa.
+
 ### Caribbean
 - [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
 
@@ -199,6 +202,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Ordnance Survey National Grid maps, 1944-1971 (National Library of Scotland)](https://maps.nls.uk/geo/records/#zoom=5&lat=56.0000&lon=-4.0000&layers=0&b=0&point=0,0) - The most detailed Ordnance Survey maps after the Second World War, including all scales of mapping - 1:1,250, 1:2,500 and 1:10,560 for Scotland and London, and just 1:10,560 scale mapping for all other parts of England and Wales. NLoS have just put online out-of-copyright maps, published over 50 years ago.
 - [Matthew Paris’ Map of Britain (c. 1255 AD)](http://historiacartarum.org/annotated-claudius-map/) - An online, clickable interactive version of Matthew Paris' most famous map. Matthew Paris was a 13th-century Benedictine monk from St Albans in Hertfordshire who is renowned for his work as a historian, writer, artist, and cartographer. His maps of Britain were the most comprehensive of their time, featuring detailed depictions of the country's topography, including cathedrals, castles, ports, mountains, and rivers. Four of his maps still exist, with the most comprehensive being his *Abbreviatio compendiosa chronicorum Anglie* manuscript, which includes the walls of Hadrian and Antonine. [Click here](https://blogs.bl.uk/digitisedmanuscripts/2020/07/the-maps-of-matthew-paris.html) for more information from the British Library.
 - [The Gough Map](https://goughmap.uk/map.php) - 14th C. map of Great Britian; The map is 115 cm x 56 cm in size on vellum, and consists of the coastline of the island of Great Britain, several smaller islands and parts of the coastlines of Ireland and the Continent. Rivers are depicted, and over 600 cities, towns and smaller settlements are represented by churches, fortifications or simple houses. Conventionally dated c. 1360 - c. 1370, it has been suggested on palaeographical grounds [Smallwood, 2010] that the map was made one or two decades after 1400. [More here.](https://www.ucl.ac.uk/early-medieval-atlas/map-data/routes-gough-map)
+- [Ordnance Survey Mapping (British Library)](https://www.bl.uk/collection-guides/ordnance-survey-mapping): The most comprehensive, publicly accessible collection of Ordnance Survey maps in the world.
 
 ##### England
 - [Key to English Place Names](http://kepn.nottingham.ac.uk/) - This is an up-to-date guide to the interpretation of the names of England's cities, towns and villages.
@@ -228,6 +232,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 #### United States
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
+- [New England Historic and Placename Directory](http://broermapsonline.org/site/placename-directory/) - Containing over 100,000 names. 
 
 ##### New York
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
