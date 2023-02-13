@@ -20,6 +20,7 @@
   - [Africa](#Africa)
   - [Caribbean](#Caribbean)
   - [Europe](#Europe)
+    - [Germany](#Germany)
     - [The Netherlands](#The-Netherlands)
     - [Norway](#Norway)
     - [Sweden](#Sweden)
@@ -117,6 +118,9 @@ Meta historical mapping search engines and other geospatial data.
 - [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection.
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
 - [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
+
+#### Germany
+- [Landkartenarchiv]( https://www.landkartenarchiv.de/) - Archive of German mapping, different world atlases, national maps, topographical maps, road maps, panorama maps, railway maps, postal code maps, city maps and special maps; text in German and English.
 
 #### The Netherlands
 - [Amsterdam University Library. 'Kaartencollectie'](http://dpc.uba.uva.nl/kaartencollectie/) covering The Netherlands and the rest of the world; offering groups of images with introductory text (in Dutch), including pages devoted to wall-maps (with the 1639 Colom map treated separately), the work of C. Claesz, water-feature mapping, the Atlas Van Schagen, the Goos 'Paskaart van Oost-Indi' (c.1658), etc.
