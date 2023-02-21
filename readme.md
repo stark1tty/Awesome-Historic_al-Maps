@@ -119,7 +119,7 @@ Meta historical mapping search engines and other geospatial data.
 
 #### US Civil War
 - [Civil War Maps](https://www.loc.gov/collections/civil-war-maps)  
-- ['Civil War Treasures from the New-York Historical Society'](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47)
+- [Civil War Treasures from the New-York Historical Society](https://cdm16694.contentdm.oclc.org/digital/collection/p16694coll47)
 
 #### WW1
 - [British First World War Trench Maps, 1915-1918 (NLS)](https://maps.nls.uk/ww1/trenches/) - Maps of the Western Front in the Great War depicting British and German trenches.
