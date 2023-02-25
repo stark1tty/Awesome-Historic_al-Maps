@@ -146,6 +146,7 @@ Meta historical mapping search engines and other geospatial data.
 
 #### Germany
 - [Landkartenarchiv]( https://www.landkartenarchiv.de/) - Archive of German mapping, different world atlases, national maps, topographical maps, road maps, panorama maps, railway maps, postal code maps, city maps and special maps; text in German and English.
+- [Virtual Map Forum](https://kartenforum.slub-dresden.de/) - Collection of historical and georeferenced maps of the Saxon State and University Library Dresden (SLUB), with a focus on Central Germany and the period from 1700 to 1950.
 
 #### The Netherlands
 - [Amsterdam University Library. 'Kaartencollectie'](http://dpc.uba.uva.nl/kaartencollectie/) covering The Netherlands and the rest of the world; offering groups of images with introductory text (in Dutch), including pages devoted to wall-maps (with the 1639 Colom map treated separately), the work of C. Claesz, water-feature mapping, the Atlas Van Schagen, the Goos 'Paskaart van Oost-Indi' (c.1658), etc.
