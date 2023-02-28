@@ -218,6 +218,7 @@ Meta historical mapping search engines and other geospatial data.
 ### General Research Guides
 - [A Guide to Reading Historic Maps (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/)
 - [How to Analyse Historic Maps Step-by-Step (National Library of Scotland)](https://digital.nls.uk/mapping-history/learn-about-maps/step-by-step/index.html)
+- [Map Age Guide: A flowchart for figuring out the age of an undated world map.](https://xkcd.com/1688/) - A classic, useful flowchart by XKCD
 
 ### Guides by Topic
 - [Cartographic Fakes, Forgeries and Facsimiles likely to deceive](http://www.maphistory.info/fakes.html) - A guide to identifying fake maps as well as a list of known forgeries. 
