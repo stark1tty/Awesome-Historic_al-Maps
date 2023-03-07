@@ -1,8 +1,3 @@
-🚧🚧 **Under Construction** 🚧🚧 
-
----
----
-
 # Awesome-Historic_al-Maps
 **Awesome Historic(al) Maps** 🗺️ 
 
