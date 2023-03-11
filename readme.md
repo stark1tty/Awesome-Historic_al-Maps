@@ -1,13 +1,11 @@
-# **Awesome Historic(al) Maps**
-## Awesome-Historic_al-Maps
+# **Awesome Historic(al) Maps** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 🗺️
-
->*Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
+> *Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
 
 Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern and analgous with the modern landscape. This repo encompasses both recent history and earlier.
 
-## Contents
+# Contents
+## Awesome-Historic_al-Maps
 
 - [Databases and Search Engines](#Databases-and-Search-Engines)
   - [Search Engines](#Search-Engines)
@@ -85,9 +83,9 @@ Meta historical mapping search engines and other geospatial data.
 - [ChronoScope World](https://mprove.de/chronoscope/world.html) - Chronoscope World is a time machine to explore the history of the world by browsing maps dating back to 14th century B.C. More than 4,200 high-resolution maps can be displayed in a maps application on the correct geo location.
 - [British Library Maps Collection](https://www.bl.uk/subjects/maps) - Includes:
   - [King George III Topographical and Maritime collections](https://www.bl.uk/collection-guides/king-george-iii): 30–40,000 maps, plans and views, both printed and hand-drawn, of all parts of the world
-  - [Globes](https://www.bl.uk/collection-guides/globes): Terrestrial and celestial globes dating back to 1600 and gores dating to 1544
-  - [Digital mapping](https://www.bl.uk/collection-guides/digital-mapping): Geospatial data, cartographic applications, digital aerial photography and scanned-in historic map materials
-  - [Manuscript maps](https://www.bl.uk/collection-guides/manuscript-maps): Cartography from the Middle Ages to the present
+  - [Globes](https://www.bl.uk/collection-guides/globes): Terrestrial and celestial globes dating back to 1600 and gores dating to 1544.
+  - [Digital mapping](https://www.bl.uk/collection-guides/digital-mapping): Geospatial data, cartographic applications, digital aerial photography and scanned-in historic map materials.
+  - [Manuscript maps](https://www.bl.uk/collection-guides/manuscript-maps): Cartography from the Middle Ages to the present.
   - [Visual arts](https://www.bl.uk/subjects/visual-arts): Visual arts collections include paintings, drawings, prints and photographs.
 - [National Library of Scotland Map Collection](https://maps.nls.uk/) - Extensive collection of maps from around the world including: Ordnance Survey maps, Maps of Scotland, County Maps, Estate Maps, Town Plans and views, Coastal/Admiralty charts, Military maps, Series maps, Bridges/Canals/Railways, Air Photo mosaics, Bathymetrical Survey, International/non-UK maps, and Atlases.
 - [Wikimedia Commons: Category - Maps](https://commons.wikimedia.org/wiki/Category:Maps) - Wikimedia has an extensive collection of maps. Make sure to search here.
