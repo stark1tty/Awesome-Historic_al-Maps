@@ -1,7 +1,6 @@
-# Awesome-Historic_al-Maps
-**Awesome Historic(al) Maps** 🗺️ 
+**Awesome Historic(al) Maps**9#Awesome-Historic_al-Maps)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 🗺️
 
 >*Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
 
