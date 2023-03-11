@@ -1,4 +1,4 @@
-**Awesome Historic(al) Maps**9#Awesome-Historic_al-Maps)
+**Awesome Historic(al) Maps**(#Awesome-Historic_al-Maps)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 🗺️
 
