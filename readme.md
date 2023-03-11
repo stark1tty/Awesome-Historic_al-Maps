@@ -5,7 +5,7 @@
 
 >*Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
 
-Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern. This repo encompasses both recent history and earlier.
+Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern and analgous with the modern landscape. This repo encompasses both recent history and earlier.
 
 ## Contents
 
