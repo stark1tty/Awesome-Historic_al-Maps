@@ -138,7 +138,7 @@ Meta historical mapping search engines and other geospatial data.
 | ▲ [Top](#Awesome-Historic_al-Maps) |
 
 ### Europe
-- [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries.
+- [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries. [Short Documentary](https://aeon.co/videos/the-famed-medieval-map-that-stretched-beyond-earth-to-heaven-history-and-myth)
 - [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
 
 #### Germany
