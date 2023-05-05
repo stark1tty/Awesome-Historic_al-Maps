@@ -4,6 +4,8 @@
 
 Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern and analgous with the modern landscape. This repo encompasses both recent history and earlier.
 
+To contribute to this list, please visit the [GitHub repository](https://github.com/stark1tty/Awesome-Historic_al-Maps).
+
 # Contents
 ## Awesome-Historic_al-Maps
 
