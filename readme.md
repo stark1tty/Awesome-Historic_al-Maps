@@ -7,7 +7,6 @@ Historic(al) is formatted in this way as "Historic Maps" implies maps that are f
 To contribute to this list, please visit the [GitHub repository](https://github.com/stark1tty/Awesome-Historic_al-Maps).
 
 # Contents
-## Awesome-Historic_al-Maps
 
 - [Databases and Search Engines](#Databases-and-Search-Engines)
   - [Search Engines](#Search-Engines)
@@ -57,7 +56,7 @@ To contribute to this list, please visit the [GitHub repository](https://github.
 
 ---
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ## Databases and Search Engines
 
@@ -73,7 +72,7 @@ Meta historical mapping search engines and other geospatial data.
 - [Pleiades](https://pleiades.stoa.org/) - Pleiades is a community-built gazetteer and graph of ancient places. It publishes authoritative information about ancient places and spaces, providing unique services for finding, displaying, and reusing that information under open license. It publishes not just for individual human users, but also for search engines and for the widening array of computational research and visualization tools that support humanities teaching and research.
 
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ## Map Collections
 
@@ -106,13 +105,13 @@ Meta historical mapping search engines and other geospatial data.
 - [Birmingham Library Map Collection](http://bplonline.cdmhost.com/digital/collection/p4017coll7/search) - 16th century onwards, and with general coverage; most of the maps from the Rucker Agee collection.
 - [Cornell University Library Map Collection](http://www.sscommons.org/openlibrary/welcome.html) - Images from the Cornell University Library Map Collection.
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### Maritime
 - [Sea Atlases from the Harvard Map Collection](http://sea-atlases.org/) - Beginning in the late 16th century, the nascent cartographic publishing industry found a receptive market for pilot books and sea atlases, which provided collections of detailed charts and sailing directions for the most frequently traversed routes.
 - [Nautical Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/nautical-maps)
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### Military and Campaigns
 
@@ -127,17 +126,17 @@ Meta historical mapping search engines and other geospatial data.
 #### WW2
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### Africa
 - [War Office Archive Maps (British Library)](https://www.bl.uk/collection-guides/war-office-archive): Military intelligence maps and associated documents relating to East Africa.
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### Caribbean
 - [Caribbean Views](https://www.bl.uk/onlinegallery/onlineex/carviews/index.html) - Over 1,200 images, maps and texts from the 18th and 19th centuries reveal contrasting experiences of life in the former British colonies.
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### Europe
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries. [Short Documentary](https://aeon.co/videos/the-famed-medieval-map-that-stretched-beyond-earth-to-heaven-history-and-myth)
@@ -160,7 +159,7 @@ Meta historical mapping search engines and other geospatial data.
 #### Switzerland
 - [Basel University Library](https://commons.m.wikimedia.org/wiki/Category:UB_Basel_Maps) - Maps of Switzerland and elsewhere, with a choice of resolution.
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 #### United Kingdom
 - [British History Online](https://www.british-history.ac.uk/catalogue/maps) - Historic maps of London from before 1800 and maps from the 19th-century series of the Ordnance Survey, including the complete 1:10,560 series and selected areas of the 1:2,500 maps. The Ordnance Survey maps can searched by keyword, title or postcode. Website also contains a plethora of digitised primary sources throughout Britsh history. 
@@ -195,7 +194,7 @@ Meta historical mapping search engines and other geospatial data.
   - [Welsh Tithe Maps - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/welsh-tithe-maps)
   - [Idris Mathias’ Manuscript Map of the Lower Teifi Valley - National Library of Wales](https://www.library.wales/discover-learn/digital-exhibitions/maps/idris-mathias-manuscript-map-of-the-lower-teifi-valley) - Browse Idris Mathias' beautiful manuscript map of the lower Teifi Valley.
 
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### North America
 
@@ -210,7 +209,7 @@ Meta historical mapping search engines and other geospatial data.
 - [The NYC Space/Time Directory](https://spacetime.nypl.org/) - The New York Public Library is creating a digital time-travel service for New York City with historical maps, collections rich in geospatial data, and the public’s help. It makes urban history accessible through a set of resources including: a searchable atlas of New York past, an historical location directory and geocoder, a set of APIs and data sets, and a discovery tool linking NYPL collections together in an historical and geographic context.
 
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ## Research Guides
 
@@ -243,7 +242,7 @@ Meta historical mapping search engines and other geospatial data.
 - [Map History/History of Cartography](http://www.maphistory.info/index.html) - A long running, general information site with information about old maps, both on the web and in the real world.
 
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ## Tools
 
@@ -269,13 +268,13 @@ Meta historical mapping search engines and other geospatial data.
 - [Historic Maps API layers: georeferenced map layers of Great Britain and Ireland for re-use (National Library of Scotland)](https://maps.nls.uk/projects/api/)
 
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ### Dealers
 - [EBay](https://www.ebay.co.uk/b/Antique-Maps-Atlases-Globes/37958/bn_1838635)
 
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ## Other 
 ### Organisations
@@ -304,7 +303,7 @@ Meta historical mapping search engines and other geospatial data.
 
 ---
 ---
-| ▲ [Top](#Awesome-Historic_al-Maps) |
+| ▲ [Top](#Contents) |
 
 ## Contribute
 
