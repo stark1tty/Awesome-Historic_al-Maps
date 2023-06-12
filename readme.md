@@ -11,7 +11,7 @@
   
 > *Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
   
-![maxresdefault.jpg]
+![](maxresdefault.jpg)
   
 </div>
 
