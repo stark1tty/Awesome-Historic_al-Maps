@@ -10,36 +10,6 @@
  <!-- subtitle -->
   
 > *Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
-
-<div id="image-container">
-    <a id="image-link" href="#"><img id="image" src="" alt="Random Image"></a>
-
-<html>
-<body>
-    <div id="image-container">
-        <a id="image-link" href="#"><img id="image" src="" alt="Random Image"></a>
-    </div>
-
-    <script>
-        // Define the category and API endpoint
-        const category = 'old maps';
-        const apiUrl = `https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category:${encodeURIComponent(category)}&cmlimit=max&cmtype=file&cmprop=url&generator=random&grnnamespace=6&grnlimit=1`;
-
-        // Fetch a random image from the category
-        fetch(apiUrl)
-            .then(response => response.json())
-            .then(data => {
-                const imageInfo = data.query.categorymembers[0];
-                const imageUrl = imageInfo.url;
-
-                // Update the image and link with the random image data
-                document.getElementById('image').src = imageUrl;
-                document.getElementById('image-link').href = imageUrl;
-            })
-            .catch(error => console.error(error));
-    </script>
-</body>
-</html>
   
 </div>
 
