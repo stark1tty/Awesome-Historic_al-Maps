@@ -1,10 +1,25 @@
-# **Awesome Historic(al) Maps** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  
+<!-- title -->
 
+<!--lint ignore no-dead-urls-->
+  
+# **Awesome Historic(al) Maps** 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/stark1tty/stark1tty
+/Awesome-Historic_al-Maps/actions/workflows/lint.yaml/badge.svg)](https://github.com/stark1tty
+/Awesome-Historic_al-Maps/actions/workflows/lint.yaml)
+
+ <!-- subtitle -->
+  
 > *Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic(al) Maps.*
+  
+</div>
 
 Historic(al) is formatted in this way as "Historic Maps" implies maps that are fairly modern and analgous with the modern landscape. This repo encompasses both recent history and earlier.
 
 To contribute to this list, please visit the [GitHub repository](https://github.com/stark1tty/Awesome-Historic_al-Maps).
+
+<!-- TOC -->
 
 # Contents
 
@@ -56,6 +71,7 @@ To contribute to this list, please visit the [GitHub repository](https://github.
 
 ---
 ---
+<!-- CONTENT -->
 | ▲ [Top](#Contents) |
 
 ## Databases and Search Engines
@@ -301,7 +317,7 @@ Meta historical mapping search engines and other geospatial data.
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Awesome implementations of the Mapbox Vector Tile specification.
-
+<!-- END CONTENT -->
 ---
 ---
 | ▲ [Top](#Contents) |
@@ -309,3 +325,5 @@ Meta historical mapping search engines and other geospatial data.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+[Thanks goes to these contributors](https://github.com/stark1tty/awesome-Historic_al-Maps/graphs/contributors)!
