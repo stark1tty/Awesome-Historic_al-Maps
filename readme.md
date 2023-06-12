@@ -5,9 +5,7 @@
 <!--lint ignore no-dead-urls-->
   
 # **Awesome Historic(al) Maps** 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/stark1tty
-/Awesome-Historic_al-Maps/actions/workflows/lint.yaml/badge.svg)](https://github.com/stark1tty
-/Awesome-Historic_al-Maps/actions/workflows/lint.yaml)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/stark1tty/Awesome-Historic_al-Maps/actions/workflows/lint.yaml/badge.svg)](https://github.com/stark1tty/Awesome-Historic_al-Maps/actions/workflows/lint.yaml)
 
  <!-- subtitle -->
   
