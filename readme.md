@@ -36,12 +36,14 @@ To contribute to this list, please visit the [GitHub repository](https://github.
   - [Africa](#Africa)
   - [Caribbean](#Caribbean)
   - [Europe](#Europe)
-    - [Mediterranean](#Mediterranean) 
-    - [Germany](#Germany)
-    - [The Netherlands](#The-Netherlands)
-    - [Norway](#Norway)
-    - [Sweden](#Sweden)
-    - [Switzerland](#Switzerland)
+    - [Mediterranean](#Mediterranean)
+    - [Northern Europe(#Northern-Europe)
+      - [The Netherlands](#The-Netherlands)
+      - [Norway](#Norway)
+      - [Sweden](#Sweden)
+    - [Western Europe](#Western-Europe)
+      - [Germany](#Germany)
+      - [Switzerland](#Switzerland)
     - [United Kingdom](#United-Kingdom)
       - [England](#England)
         - [Hampshire](#Hampshire)
@@ -159,13 +161,10 @@ Meta historical mapping search engines and other geospatial data.
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries. [Short Documentary](https://aeon.co/videos/the-famed-medieval-map-that-stretched-beyond-earth-to-heaven-history-and-myth)
 - [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
 
-### Mediterranean
+#### Mediterranean
 - [Ancient World Mapping Center (University of North Carolina at Chapel Hill)](http://awmc.unc.edu/wordpress/about/) - AWMC continues the work of the Classical Atlas Project that produced the landmark Barrington Atlas of the Greek and Roman World (R. J. A. Talbert ed., 2000). It continues to refine the geographic dataset (both cultural and physical) for the ancient Mediterranean world in partnership with Pleiades.
 
-#### Germany
-- [Landkartenarchiv]( https://www.landkartenarchiv.de/) - Archive of German mapping, different world atlases, national maps, topographical maps, road maps, panorama maps, railway maps, postal code maps, city maps and special maps; text in German and English.
-- [Virtual Map Forum](https://kartenforum.slub-dresden.de/) - Collection of historical and georeferenced maps of the Saxon State and University Library Dresden (SLUB), with a focus on Central Germany and the period from 1700 to 1950.
-
+#### Northern Europe
 #### The Netherlands
 - [Amsterdam University Library. 'Kaartencollectie'](http://dpc.uba.uva.nl/kaartencollectie/) covering The Netherlands and the rest of the world; offering groups of images with introductory text (in Dutch), including pages devoted to wall-maps (with the 1639 Colom map treated separately), the work of C. Claesz, water-feature mapping, the Atlas Van Schagen, the Goos 'Paskaart van Oost-Indi' (c.1658), etc.
 - [Palaeogeographic maps of the Netherlands (Rijksdienst voor het Cultureel Erfgoed | Ministerie van Onderwijs, Cultuur en Wetenschap)](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf)
@@ -175,6 +174,11 @@ Meta historical mapping search engines and other geospatial data.
 
 #### Sweden
 - [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
+
+#### Western Europe
+##### Germany
+- [Landkartenarchiv]( https://www.landkartenarchiv.de/) - Archive of German mapping, different world atlases, national maps, topographical maps, road maps, panorama maps, railway maps, postal code maps, city maps and special maps; text in German and English.
+- [Virtual Map Forum](https://kartenforum.slub-dresden.de/) - Collection of historical and georeferenced maps of the Saxon State and University Library Dresden (SLUB), with a focus on Central Germany and the period from 1700 to 1950.
 
 #### Switzerland
 - [Basel University Library](https://commons.m.wikimedia.org/wiki/Category:UB_Basel_Maps) - Maps of Switzerland and elsewhere, with a choice of resolution.
