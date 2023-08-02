@@ -166,10 +166,10 @@ Meta historical mapping search engines and other geospatial data.
 - [Landkartenarchiv]( https://www.landkartenarchiv.de/) - Archive of German mapping, different world atlases, national maps, topographical maps, road maps, panorama maps, railway maps, postal code maps, city maps and special maps; text in German and English.
 - [Virtual Map Forum](https://kartenforum.slub-dresden.de/) - Collection of historical and georeferenced maps of the Saxon State and University Library Dresden (SLUB), with a focus on Central Germany and the period from 1700 to 1950.
 
-#### Switzerland
+##### Switzerland
 - [Basel University Library](https://commons.m.wikimedia.org/wiki/Category:UB_Basel_Maps) - Maps of Switzerland and elsewhere, with a choice of resolution.
 
-#### The Netherlands
+##### The Netherlands
 - [Amsterdam University Library. 'Kaartencollectie'](http://dpc.uba.uva.nl/kaartencollectie/) covering The Netherlands and the rest of the world; offering groups of images with introductory text (in Dutch), including pages devoted to wall-maps (with the 1639 Colom map treated separately), the work of C. Claesz, water-feature mapping, the Atlas Van Schagen, the Goos 'Paskaart van Oost-Indi' (c.1658), etc.
 - [Palaeogeographic maps of the Netherlands (Rijksdienst voor het Cultureel Erfgoed | Ministerie van Onderwijs, Cultuur en Wetenschap)](https://www.cultureelerfgoed.nl/onderwerpen/bronnen-en-kaarten/documenten/publicaties/2019/01/01/paleogeografische-kaarten-pdf)
 
@@ -178,10 +178,10 @@ Meta historical mapping search engines and other geospatial data.
 - [Ancient World Mapping Center (University of North Carolina at Chapel Hill)](http://awmc.unc.edu/wordpress/about/) - AWMC continues the work of the Classical Atlas Project that produced the landmark Barrington Atlas of the Greek and Roman World (R. J. A. Talbert ed., 2000). It continues to refine the geographic dataset (both cultural and physical) for the ancient Mediterranean world in partnership with Pleiades.
 
 #### Northern Europe
-#### Norway
+##### Norway
 - [Narvik Bunkers](https://www.narvik-bunkers.no/overview/) - WW2 Fortifications and related structures in and around Narvik, Norway
 
-#### Sweden
+##### Sweden
 - [TORA (Topographical Register at the National Archives) from The Swedish National Archives](https://riksarkivet.se/tora-english) - TORA consist of a geocoded register of historical settlement units in Sweden, and a linked open data service that connect historical sources and databases on the basis of geocoded settlements. [GitHub](https://github.com/Riksarkivet/tora)
 
 | ▲ [Top](#Contents) |
