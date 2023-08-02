@@ -36,6 +36,7 @@ To contribute to this list, please visit the [GitHub repository](https://github.
   - [Africa](#Africa)
   - [Caribbean](#Caribbean)
   - [Europe](#Europe)
+    - [Mediterranean](#Mediterranean) 
     - [Germany](#Germany)
     - [The Netherlands](#The-Netherlands)
     - [Norway](#Norway)
@@ -157,6 +158,9 @@ Meta historical mapping search engines and other geospatial data.
 ### Europe
 - [Mappa Mundi Explorer](https://www.themappamundi.co.uk/) - Scholars believe it was made around the year 1300 and shows the history, geography and destiny of humanity as it was understood in Christian Europe in the late thirteenth and early fourteenth centuries. [Short Documentary](https://aeon.co/videos/the-famed-medieval-map-that-stretched-beyond-earth-to-heaven-history-and-myth)
 - [Denmark: Royal Library and Copenhagen University Library. 'Kort & Atlas'](http://www.kb.dk/maps/kortsa/2012/jul/kortatlas/en/) - Images from the Map & Atlas collection covering all parts of the world with a strong focus on northern Europe.
+
+### Mediterranean
+- [Ancient World Mapping Center (University of North Carolina at Chapel Hill)](http://awmc.unc.edu/wordpress/about/) - AWMC continues the work of the Classical Atlas Project that produced the landmark Barrington Atlas of the Greek and Roman World (R. J. A. Talbert ed., 2000). It continues to refine the geographic dataset (both cultural and physical) for the ancient Mediterranean world in partnership with Pleiades.
 
 #### Germany
 - [Landkartenarchiv]( https://www.landkartenarchiv.de/) - Archive of German mapping, different world atlases, national maps, topographical maps, road maps, panorama maps, railway maps, postal code maps, city maps and special maps; text in German and English.
