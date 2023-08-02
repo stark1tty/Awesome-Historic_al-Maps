@@ -37,7 +37,7 @@ To contribute to this list, please visit the [GitHub repository](https://github.
   - [Caribbean](#Caribbean)
   - [Europe](#Europe)
     - [Mediterranean](#Mediterranean)
-    - [Northern Europe(#Northern-Europe)
+    - [Northern Europe](#Northern-Europe)
       - [The Netherlands](#The-Netherlands)
       - [Norway](#Norway)
       - [Sweden](#Sweden)
