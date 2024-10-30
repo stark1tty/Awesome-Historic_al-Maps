@@ -77,6 +77,9 @@ To contribute to this list, please visit the [GitHub repository](https://github.
 <!-- CONTENT -->
 | ▲ [Top](#Contents) |
 
+## Key
+💵 = Site has paid content.
+
 ## Databases and Search Engines
 
 Meta historical mapping search engines and other geospatial data.
@@ -226,6 +229,9 @@ Meta historical mapping search engines and other geospatial data.
 #### United States
 - [American Geographical Society Library. 'Digital Map Collection'](https://uwm.edu/lib-collections/agsl-digital-map-collection/) - Maps ranging from early maps of Asia to historical maps of Wisconsin and Milwaukee, and other American cities, states, and national parks.
 - [New England Historic and Placename Directory](http://broermapsonline.org/site/placename-directory/) - Containing over 100,000 names. 
+
+##### Maine
+- 💵 [PastMaps](https://pastmaps.com/) - Collection of historical maps from Maine and more.
 
 ##### Minnesota
 - [John R. Borchert Map Library, University of Minnesota]( https://www.lib.umn.edu/borchert) - With material on Minnesota, the USA and the rest of the world.
